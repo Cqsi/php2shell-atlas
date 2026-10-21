@@ -5,6 +5,6 @@ if(html.includes('__MAP_DATA__'))throw new Error('Unbuilt map data');
 const scripts=[...html.matchAll(/<script(?: [^>]*)?>([\s\S]*?)<\/script>/g)].map(match=>match[1]);
 if(scripts.length!==2)throw new Error('Expected map data and application scripts');
 const map=JSON.parse(scripts[0]);
-if(map.dots.length<3000||map.countries.length<170)throw new Error('Map geometry incomplete');
+if(map.countries.length<170||map.countries.some(country=>!country.path))throw new Error('Map geometry incomplete');
 new vm.Script(scripts[1]);
 console.log('HTML, map and browser script validated');

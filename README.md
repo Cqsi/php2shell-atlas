@@ -9,7 +9,7 @@ npm run build
 vercel dev
 ```
 
-The site is a static HTML page in `src/index.html` with a Vercel function in `api/news.js`. `npm run build` embeds the dotted map data into `public/index.html`. The function checks six official, company and news RSS/Atom feeds when the page opens. Its results are listed as live source-feed items; country colors remain curated and source-linked.
+The site is a static HTML page in `src/index.html` with a Vercel function in `api/news.js`. `npm run build` embeds the country boundaries into `public/index.html`. The function checks six official, company and news RSS/Atom feeds when the page opens. Its results are listed as live source-feed items; country colors remain curated and source-linked.
 
 ## Updating the tracker
 
@@ -17,4 +17,4 @@ The site is a static HTML page in `src/index.html` with a Vercel function in `ap
 - Update the counts and date in the page header and footer.
 - Run `npm run build && npm run check` before deploying.
 
-The map uses Natural Earth boundary data via [johan/world.geo.json](https://github.com/johan/world.geo.json). The boundaries are display geometry, not statements of political status. To regenerate the dot grid, run `python3 scripts/generate-map.py` from the repository root.
+The map uses Natural Earth boundary data via [johan/world.geo.json](https://github.com/johan/world.geo.json). The boundaries are display geometry, not statements of political status. To regenerate the SVG paths, run `python3 scripts/generate-map.py` from the repository root.
