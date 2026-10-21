@@ -168,11 +168,12 @@ const featuredTitles=[
  'South African reporting examines local PHP exposure'
 ];
 stories.sort(function(a,b){const aRank=featuredTitles.indexOf(a.title),bRank=featuredTitles.indexOf(b.title);return(aRank<0?Infinity:aRank)-(bRank<0?Infinity:bRank)});
-let expanded=false;const more=document.getElementById('more');more.addEventListener('click',function(){expanded=!expanded;renderStories()});
+let visibleCount=10;const more=document.getElementById('more');more.addEventListener('click',function(){visibleCount+=10;renderStories()});
 function renderStories(){
  const container=document.getElementById('stories');container.replaceChildren();
- const visible=expanded?stories:stories.slice(0,8);
- more.hidden=stories.length<=8;more.textContent=expanded?'Show fewer ↑':'Show all '+stories.length+' updates ↓';more.setAttribute('aria-expanded',String(expanded));
+ const visible=stories.slice(0,visibleCount);
+ const remaining=Math.max(0,stories.length-visibleCount);
+ more.hidden=remaining<=0;more.textContent='Show '+Math.min(10,remaining)+' more updates ↓';more.setAttribute('aria-expanded',String(visibleCount>10));
  visible.forEach(function(item){const a=document.createElement('a');a.className='story';a.href=item.url;a.target='_blank';a.rel='noopener noreferrer';const art=document.createElement('div');art.className='art '+(item.imageFit==='logo'?'logo':'')+(item.source==='IPA Japan'?' ipa':'');const artText=document.createElement('span');artText.textContent=item.art;if(item.image){const img=document.createElement('img');img.src=item.image;img.alt='';img.loading='lazy';img.decoding='async';img.addEventListener('error',function(){img.hidden=true});art.appendChild(img)}art.appendChild(artText);const body=document.createElement('div');body.className='storybody';const meta=document.createElement('div');meta.className='storymeta';const date=document.createElement('span');date.textContent=item.date;meta.appendChild(date);const h=document.createElement('h3');h.textContent=item.title;const p=document.createElement('p');p.textContent=item.description;body.append(meta,h);if(item.description)body.appendChild(p);a.append(art,body);container.appendChild(a)})
 }
 renderStories();
