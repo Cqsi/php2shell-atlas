@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "title": "Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) [infocon yellow], (Wed, Oct 21st)",
+      "description": "PHP.net announced that it will release a critical update today. We decided to change the infoCon to YELLOW due to the widespread use of PHP, the expected severity of the flaw (CVSS 9.4), and",
+      "source": "SANS ISC",
+      "kind": "research",
+      "image": "",
+      "url": "https://isc.sans.edu/diary/rss/33440",
+      "publishedAt": "2026-10-21T21:02:43.000Z",
+      "date": "21 Oct 2026"
+    },
+    {
       "title": "Stopping PHP2SHELL: How SentinelOne Protects Customers From This Attack Technique",
       "description": "Stop PHP2Shell with SentinelOne. Learn how Singularity Agent stops web worker post-exploitation, kills process trees, and hunts threats.",
       "source": "SentinelOne",
@@ -201,16 +211,6 @@
       "date": "21 Oct 2026"
     },
     {
-      "title": "Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) [infocon yellow], (Wed, Oct 21st)",
-      "description": "PHP.net announced that it will release a critical update today. We decided to change the infoCon to YELLOW due to the widespread use of PHP, the expected severity of the flaw (CVSS 9.4), and",
-      "source": "SANS ISC",
-      "kind": "research",
-      "image": "",
-      "url": "https://isc.sans.edu/diary/rss/33440",
-      "publishedAt": "2026-10-21T15:12:02.000Z",
-      "date": "21 Oct 2026"
-    },
-    {
       "title": "PHP Releases Emergency Fixes for Critical PHP2Shell Vulnerabilities",
       "description": "PHP releases emergency PHP2Shell fixes for two critical flaws allowing unauthenticated code execution. Website owners and hosting providers…",
       "source": "HackRead",
@@ -391,8 +391,8 @@
       "date": "21 Oct 2026"
     }
   ],
-  "checkedAt": "2026-10-21T20:13:05.102Z",
+  "checkedAt": "2026-10-21T22:00:40.082Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
-  "searchMatches": 15
+  "searchMatches": 0
 }
