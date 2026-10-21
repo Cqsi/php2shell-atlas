@@ -1,6 +1,56 @@
 {
   "items": [
     {
+      "title": "Stopping PHP2SHELL: How SentinelOne Protects Customers From This Attack Technique",
+      "description": "Stop PHP2Shell with SentinelOne. Learn how Singularity Agent stops web worker post-exploitation, kills process trees, and hunts threats.",
+      "source": "SentinelOne",
+      "kind": "company",
+      "image": "https://images.contentstack.io/v3/assets/blt53c99b43892c2378/blt64fd9825f4d7eed3/6a836cb42f00b28518f06d6c/threat_intel_banner.jpg",
+      "url": "https://www.sentinelone.com/blog/stopping-php2shell-how-sentinelone-protects-customers-from-this-attack-technique/",
+      "publishedAt": "2026-10-21T19:21:11.000Z",
+      "date": "21 Oct 2026"
+    },
+    {
+      "title": "'PHP2Shell' Bugs Signal Red Alert for Security Industry",
+      "description": "Security teams are scrambling to remediate two critical PHP vulnerabilities following leaked details and reports of exploitation attempts.",
+      "source": "Dark Reading",
+      "kind": "reporting",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt67e9fa778860769f/6ad8fdb74b1e4143168658d7/warning_sign_with_siren-DSGpro-GettyImages-184878150.jpg?width=720&quality=80&disable=upscale",
+      "url": "https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry",
+      "publishedAt": "2026-10-21T19:19:17.000Z",
+      "date": "21 Oct 2026"
+    },
+    {
+      "title": "PHP security issues : Websites go offline amid critical update",
+      "description": "",
+      "source": "thenationalnews.com",
+      "kind": "reporting",
+      "image": "https://www.thenationalnews.com/resizer/v2/S445IWNQ26BPWHZAMENGO3DIHQ.jpg?auth=69c1ca7cdebbc3a33275efa2303cafbf83af0f120013a41bdb89a24350d5b67f&smart=true",
+      "url": "https://www.thenationalnews.com/future/technology/2026/10/21/php-security-issues-exploit/",
+      "publishedAt": "2026-10-21T18:45:00.000Z",
+      "date": "21 Oct 2026"
+    },
+    {
+      "title": "Critical PHP Patches Address Very , Very Bad Vulnerability",
+      "description": "",
+      "source": "govinfosecurity.com",
+      "kind": "reporting",
+      "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/critical-php-patches-address-very-very-bad-vulnerability-image_large-6-a-33162.jpg",
+      "url": "https://www.govinfosecurity.com/critical-php-patches-address-very-very-bad-vulnerability-a-33162",
+      "publishedAt": "2026-10-21T18:45:00.000Z",
+      "date": "21 Oct 2026"
+    },
+    {
+      "title": "PHP patches released for two critical RCEs",
+      "description": "",
+      "source": "lwn.net",
+      "kind": "reporting",
+      "image": "",
+      "url": "https://lwn.net/Articles/1102014/",
+      "publishedAt": "2026-10-21T18:30:00.000Z",
+      "date": "21 Oct 2026"
+    },
+    {
       "title": "Multiple websites go offline after critical PHP security flaw ; FBI urges immediate updates . Here what you should do",
       "description": "",
       "source": "economictimes.indiatimes.com",
@@ -341,8 +391,8 @@
       "date": "21 Oct 2026"
     }
   ],
-  "checkedAt": "2026-10-21T18:47:43.902Z",
-  "feedsAvailable": 40,
+  "checkedAt": "2026-10-21T20:13:05.102Z",
+  "feedsAvailable": 41,
   "feedsTotal": 41,
-  "searchMatches": 12
+  "searchMatches": 15
 }
