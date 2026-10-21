@@ -9,7 +9,7 @@ npm run build
 vercel dev
 ```
 
-The site is a static HTML page in `src/index.html` with a Vercel function in `api/news.js`. `npm run build` embeds the dotted map data into `public/index.html`. The function checks three official RSS/Atom feeds when the page opens. Its results are listed as live official-feed items; country colors remain curated and source-linked.
+The site is a static HTML page in `src/index.html` with a Vercel function in `api/news.js`. `npm run build` embeds the dotted map data into `public/index.html`. The function checks six official, company and news RSS/Atom feeds when the page opens. Its results are listed as live source-feed items; country colors remain curated and source-linked.
 
 ## Updating the tracker
 
