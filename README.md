@@ -9,7 +9,7 @@ npm run build
 vercel dev
 ```
 
-The site is a static HTML page in `src/index.html` with a Vercel function in `api/news.js`. `npm run build` embeds the country boundaries into `public/index.html`. The function checks six official, company and news RSS/Atom feeds when the page opens. Its results are listed as live source-feed items; country colors remain curated and source-linked.
+The site is a static HTML page in `src/index.html` with a Vercel function in `api/news.js`. `npm run build` embeds the country boundaries into `public/index.html`. The function checks ten official, company, research and news RSS/Atom/RDF feeds when the page opens. Reviewed stories use source-provided article images when available. Its results are listed as live source-feed items; country colors remain curated and source-linked.
 
 ## Updating the tracker
 
