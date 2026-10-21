@@ -28,7 +28,7 @@ jobs:
         run: |
           if git diff --quiet -- data/live-news.json; then exit 0; fi
           git config user.name 'Casimir Rönnlöf'
-          git config user.email 'casimirr04@gmail.com'
+          git config user.email '40036806+Cqsi@users.noreply.github.com'
           git add data/live-news.json
           git commit -m 'Refresh incident coverage'
           git push
