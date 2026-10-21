@@ -112,12 +112,22 @@
     },
     {
       "title": "php2shell (CVE-2026-109618, CVE-2026-109619): Frequently asked questions about critical PHP remote code execution vulnerabilities",
-      "description": "<p><strong>Two critical PHP remote code execution vulnerabilities will be patched in an emergency release on October 21. Fixes are only expected for supported PHP 8.x branches.</strong></p><",
+      "description": "<p><strong>PHP has released patches for two critical remote code execution vulnerabilities. Fixes are available for PHP 8.2 through 8.5, with source backports for end-of-life PHP 7.4 through",
       "source": "Tenable",
       "kind": "company",
       "image": "",
       "url": "https://www.tenable.com/blog/php2shell-cve-2026-109618-cve-2026-109619-frequently-asked-questions-about-critical-php-remote",
       "publishedAt": "2026-10-21T09:01:24.000Z",
+      "date": "21 Oct 2026"
+    },
+    {
+      "title": "CrowdStrike Protects Customers from Threats Delivered via PHP2Shell",
+      "description": "",
+      "source": "CrowdStrike",
+      "kind": "company",
+      "image": "",
+      "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-protects-customers-from-php-rce-zero-days/",
+      "publishedAt": "2026-10-21T05:00:00.000Z",
       "date": "21 Oct 2026"
     },
     {
@@ -151,7 +161,7 @@
       "date": "21 Oct 2026"
     }
   ],
-  "checkedAt": "2026-10-21T18:43:45.066Z",
+  "checkedAt": "2026-10-21T18:46:09.425Z",
   "feedsAvailable": 24,
   "feedsTotal": 24,
   "searchMatches": 0
