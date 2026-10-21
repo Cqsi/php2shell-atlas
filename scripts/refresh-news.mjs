@@ -1,5 +1,5 @@
 import {readFileSync,writeFileSync} from 'node:fs';
-import {cleanItems,fetchDirectFeeds,isIncident,isRelevant,safeHttpsUrl} from '../lib/news.js';
+import {cleanItems,fetchDirectFeeds,isIncident,safeHttpsUrl} from '../lib/news.js';
 
 const output=new URL('../data/live-news.json',import.meta.url);
 const query='("php2shell" OR "CVE-2026-109618" OR "CVE-2026-109619")';
@@ -24,7 +24,7 @@ async function searchCoverage(){
 }
 
 const prior=JSON.parse(readFileSync(output,'utf8'));
-const retained=prior.items.filter(item=>item&&item.title&&safeHttpsUrl(item.url)&&isRelevant(item.title,item.description))
+const retained=prior.items.filter(item=>item&&item.title&&safeHttpsUrl(item.url))
   .map(item=>({...item,timestamp:Date.parse(item.publishedAt||item.date)})).filter(item=>Number.isFinite(item.timestamp));
 const [searchResult,feedResult]=await Promise.allSettled([searchCoverage(),fetchDirectFeeds(12000)]);
 if(searchResult.status==='rejected')console.warn('Broad search unavailable:',searchResult.reason.message);
