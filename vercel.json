@@ -1,0 +1,5 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "public",
+  "functions": {"api/news.js": {"maxDuration": 10}}
+}
