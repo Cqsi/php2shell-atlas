@@ -1,0 +1,158 @@
+{
+  "items": [
+    {
+      "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619",
+      "description": "CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP, a scripting language used globally for web servers and CMS systems. The post Threat Brief: Critical Vulnerabilities i",
+      "source": "Unit 42",
+      "kind": "company",
+      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/10/03_Vulnerabilities_1920x900.jpg",
+      "url": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
+      "publishedAt": "2026-10-21T16:30:34.000Z",
+      "date": "21 Oct 2026"
+    },
+    {
+      "title": "PHP2Shell: Why websites are going offline for emergency security updates",
+      "description": "Websites are temporarily going offline as admins address two critical PHP flaws that could let attackers run malicious code on their servers.",
+      "source": "Malwarebytes",
+      "kind": "company",
+      "image": "",
+      "url": "https://www.malwarebytes.com/blog/bugs/2026/10/php2shell-why-websites-are-going-offline-for-emergency-security-updates",
+      "publishedAt": "2026-10-21T16:14:18.000Z",
+      "date": "21 Oct 2026"
+    },
+    {
+      "title": "CVE-2026-109618 and CVE-2026-109619: Critical Unauthenticated Remote Code Execution in PHP",
+      "description": "OverviewOn October 21, 2026, the PHP project announced security releases for two critical vulnerabilities in PHP. CVE-2026-109618 can corrupt memory during out-of-memory (OOM) handling, whil",
+      "source": "Rapid7",
+      "kind": "company",
+      "image": "https://images.contentstack.io/v3/assets/blte4f029e766e6b253/blt65a432ba319f4043/6846abddaf18306debe6cf4d/ETR.webp",
+      "url": "https://www.rapid7.com/blog/post/etr-cve-2026-109618-and-cve-2026-109619-critical-unauthenticated-remote-code-execution-in-php",
+      "publishedAt": "2026-10-21T15:22:52.000Z",
+      "date": "21 Oct 2026"
+    },
+    {
+      "title": "Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) [infocon yellow], (Wed, Oct 21st)",
+      "description": "PHP.net announced that it will release a critical update today. We decided to change the infoCon to YELLOW due to the widespread use of PHP, the expected severity of the flaw (CVSS 9.4), and",
+      "source": "SANS ISC",
+      "kind": "research",
+      "image": "",
+      "url": "https://isc.sans.edu/diary/rss/33440",
+      "publishedAt": "2026-10-21T15:12:02.000Z",
+      "date": "21 Oct 2026"
+    },
+    {
+      "title": "PHP ships emergency patches for critical PHP2Shell flaws",
+      "description": "The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell",
+      "source": "BleepingComputer",
+      "kind": "reporting",
+      "image": "",
+      "url": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
+      "publishedAt": "2026-10-21T14:07:05.000Z",
+      "date": "21 Oct 2026"
+    },
+    {
+      "title": "PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet",
+      "description": "Core PHP engine flaws enable remote code execution and Heartbleed-style memory disclosure across the web.",
+      "source": "Wiz",
+      "kind": "company",
+      "image": "https://www.datocms-assets.com/75231/1792534907-img_7274.png",
+      "url": "https://www.wiz.io/blog/php2shell-php-rce",
+      "publishedAt": "2026-10-21T13:59:59.000Z",
+      "date": "21 Oct 2026"
+    },
+    {
+      "title": "Cloudflare deploys protections against php2shell vulnerability",
+      "description": "Cloudflare has deployed default web application firewall (WAF) protections for newly disclosed PHP vulnerabilities before public disclosure. The rules use request and response signals to sto",
+      "source": "Cloudflare",
+      "kind": "company",
+      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01KXQSMGN3Z955B45GCJR4REK3.png",
+      "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
+      "publishedAt": "2026-10-21T13:56:45.000Z",
+      "date": "21 Oct 2026"
+    },
+    {
+      "title": "USN-8948-1: PHP vulnerabilities",
+      "description": "It was discovered that PHP incorrectly handled out-of-memory conditions while processing requests. A remote attacker could use this issue to execute arbitrary code. (CVE-2026-109618) It was ",
+      "source": "Ubuntu Security",
+      "kind": "official",
+      "image": "",
+      "url": "https://ubuntu.com/security/notices/USN-8948-1",
+      "publishedAt": "2026-10-21T13:56:19.000Z",
+      "date": "21 Oct 2026"
+    },
+    {
+      "title": "PHP2Shell: Critical PHP vulnerabilities patched, update now!",
+      "description": "The PHP development team has released emergency security updates to fix PHP2Shell, two critical vulnerabilities (CVE-2026-109618 and CVE-2026-109619) that could let attackers execute code re",
+      "source": "Help Net Security",
+      "kind": "reporting",
+      "image": "",
+      "url": "https://www.helpnetsecurity.com/2026/10/21/php2shell-php-vulnerabilities-patched-cve-2026-109618-cve-2026-109619/",
+      "publishedAt": "2026-10-21T13:51:05.000Z",
+      "date": "21 Oct 2026"
+    },
+    {
+      "title": "Critical security issue affecting PHP",
+      "description": "Updated: The NCSC is encouraging UK organisations to take immediate action to mitigate a security issue affecting PHP (CVE-2026-109618 and CVE-2026-109619).",
+      "source": "UK NCSC",
+      "kind": "official",
+      "image": "",
+      "url": "https://www.ncsc.gov.uk/news/critical-security-issue-affecting-php",
+      "publishedAt": "2026-10-21T12:00:00.000Z",
+      "date": "21 Oct 2026"
+    },
+    {
+      "title": "Critical Vulnerabilities in PHP Require Immediate Patching",
+      "description": "<p>CISA strongly urges organizations to immediately patch the recently disclosed critical vulnerabilities in PHP, <a href=\"https://www.cve.org/CVERecord?id=CVE-2026-109618\" target=\"_blank\">C",
+      "source": "CISA",
+      "kind": "official",
+      "image": "",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching",
+      "publishedAt": "2026-10-21T12:00:00.000Z",
+      "date": "21 Oct 2026"
+    },
+    {
+      "title": "php2shell (CVE-2026-109618, CVE-2026-109619): Frequently asked questions about critical PHP remote code execution vulnerabilities",
+      "description": "<p><strong>Two critical PHP remote code execution vulnerabilities will be patched in an emergency release on October 21. Fixes are only expected for supported PHP 8.x branches.</strong></p><",
+      "source": "Tenable",
+      "kind": "company",
+      "image": "",
+      "url": "https://www.tenable.com/blog/php2shell-cve-2026-109618-cve-2026-109619-frequently-asked-questions-about-critical-php-remote",
+      "publishedAt": "2026-10-21T09:01:24.000Z",
+      "date": "21 Oct 2026"
+    },
+    {
+      "title": "PHP 8.5.12 Released!",
+      "description": "The PHP development team announces the immediate availability of PHP 8.5.12. This is a security release fixing two critical vulnerabilities (CVE-2026-109618, CVE-2026-109619) that can allow ",
+      "source": "PHP.net",
+      "kind": "official",
+      "image": "",
+      "url": "https://www.php.net/index.php#2026-10-21-4",
+      "publishedAt": "2026-10-21T00:24:52.000Z",
+      "date": "21 Oct 2026"
+    },
+    {
+      "title": "[Màj] Multiples vulnérabilités dans PHP (21 octobre 2026)",
+      "description": "**[Mise à jours du 21 octobre 2026]** Les correctifs de sécurité sont disponibles sur le site de l'éditeur. PHP indique que les vulnérabilités CVE-2026-109618 et CVE-2026-109619 permettent à",
+      "source": "CERT-FR",
+      "kind": "official",
+      "image": "",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-014/",
+      "publishedAt": "2026-10-21T00:00:00.000Z",
+      "date": "21 Oct 2026"
+    },
+    {
+      "title": "PHP2Shell - Critical vulnerabilities in PHP (CVE-2026-109618, CVE-2026-109619): detection, analysis, and remediation",
+      "description": "Learn about the two critical vulnerabilities in PHP dubbed PHP2Shell.",
+      "source": "Datadog Security Labs",
+      "kind": "company",
+      "image": "",
+      "url": "https://securitylabs.datadoghq.com/articles/php2shell-critical-vulnerabilities-in-php/",
+      "publishedAt": "2026-10-21T00:00:00.000Z",
+      "date": "21 Oct 2026"
+    }
+  ],
+  "checkedAt": "2026-10-21T18:43:45.066Z",
+  "feedsAvailable": 24,
+  "feedsTotal": 24,
+  "searchMatches": 0
+}
