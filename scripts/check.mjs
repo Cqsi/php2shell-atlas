@@ -6,5 +6,7 @@ const scripts=[...html.matchAll(/<script(?: [^>]*)?>([\s\S]*?)<\/script>/g)].map
 if(scripts.length!==2)throw new Error('Expected map data and application scripts');
 const map=JSON.parse(scripts[0]);
 if(map.countries.length<170||map.countries.some(country=>!country.path))throw new Error('Map geometry incomplete');
+const detail=JSON.parse(readFileSync('public/map-detail.json','utf8'));
+if(Object.keys(detail.paths).length<170||detail.paths.FIN.length<map.countries.find(country=>country.id==='FIN').path.length)throw new Error('Detailed map geometry incomplete');
 new vm.Script(scripts[1]);
 console.log('HTML, map and browser script validated');

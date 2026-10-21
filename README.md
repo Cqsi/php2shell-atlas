@@ -17,4 +17,4 @@ The site is a static HTML page in `src/index.html` with a Vercel function in `ap
 - Update the counts and date in the page header and footer.
 - Run `npm run build && npm run check` before deploying.
 
-The map uses Natural Earth boundary data via [johan/world.geo.json](https://github.com/johan/world.geo.json). The boundaries are display geometry, not statements of political status. To regenerate the SVG paths, run `python3 scripts/generate-map.py` from the repository root.
+The world map uses Natural Earth boundary data via [johan/world.geo.json](https://github.com/johan/world.geo.json). Regional views load more detailed [Natural Earth 1:50m country boundaries](https://www.naturalearthdata.com/downloads/50m-cultural-vectors/) from `data/countries-50m.geo.json`. The boundaries are display geometry, not statements of political status. To regenerate both SVG path files, run `python3 scripts/generate-map.py` from the repository root.
