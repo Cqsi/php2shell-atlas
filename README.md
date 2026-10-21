@@ -22,3 +22,5 @@ Run `npm run refresh-news` to refresh the snapshot locally. The live API can als
 - Run `npm run build && npm run check` before deploying.
 
 The world map uses Natural Earth boundary data via [johan/world.geo.json](https://github.com/johan/world.geo.json). Regional views load more detailed [Natural Earth 1:50m country boundaries](https://www.naturalearthdata.com/downloads/50m-cultural-vectors/) from `data/countries-50m.geo.json`. The boundaries are display geometry, not statements of political status. To regenerate both SVG path files, run `python3 scripts/generate-map.py` from the repository root.
+
+The theme toggle uses the [Lucide Sun and Moon icons](https://lucide.dev/icons) under the license in [`licenses/LUCIDE_LICENSE.txt`](licenses/LUCIDE_LICENSE.txt).
