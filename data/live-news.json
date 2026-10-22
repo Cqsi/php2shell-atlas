@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "title": "PHP2Shell Attacks Started Four Days Before Public Disclosure, AWS Reports",
+      "description": "AWS detected PHP2Shell exploit attempts four days before disclosure, highlighting the risk of attackers exploiting critical flaws before patches arrive. Attackers attempted to exploit two cr",
+      "source": "Security Affairs",
+      "kind": "reporting",
+      "image": "",
+      "url": "https://securityaffairs.com/201479/hacking/php2shell-attacks-started-four-days-before-public-disclosure-aws-reports.html",
+      "publishedAt": "2026-10-22T14:55:01.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
       "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
       "description": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
       "source": "BleepingComputer",
@@ -42,7 +52,7 @@
     },
     {
       "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
-      "description": "Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities on October 17, 2026, against its MadPot honeypot service, ",
+      "description": "Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities dating back to October 17, 2026, against its MadPot honeyp",
       "source": "The Hacker News",
       "kind": "reporting",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZXm1gLzaKPP-QW888zIx_tXRCirkgZBsOOn0icTEOrFBf7w28955jH1zY8jxw2Cf-g2Qp9mPHgrBe7E5dux_L2XUzdaVZfvRgj_utCT-nTiU7haAkAr_F6eEeW5YJmtwbtJoIuumhnv5F9tFG_2BcLwnaqwkFGWEvFnWsUDHHuobMhZ_letCSD6I56Lw_/s1600/php-hacks.jpg",
@@ -88,6 +98,16 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad93379-1792619385.jpg",
       "url": "https://www.aljazeera.com/news/2026/10/22/world-leaders-warn-against-security-flaw-found-in-php-computer-programming",
       "publishedAt": "2026-10-22T04:15:00.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "PHP Patches Two Critical Unauthenticated RCEs (CVE-2026-109618, CVE-2026-109619): Update Now",
+      "description": "Two critical flaws in PHP’s request lifecycle can enable unauthenticated remote code execution. Upgrade to a fixed release or install a vendor backport for older versions.",
+      "source": "Snyk",
+      "kind": "company",
+      "image": "https://res.cloudinary.com/snyk/image/upload/v1690813497/illustration-hero-ai.png",
+      "url": "https://snyk.io/blog/php-patches-critical-unauthenticated-rces/",
+      "publishedAt": "2026-10-22T04:00:00.000Z",
       "date": "22 Oct 2026"
     },
     {
@@ -202,7 +222,7 @@
     },
     {
       "title": "Using AWS WAF to apply mitigations for PHP2Shell RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619)",
-      "description": "On October 21, 2026, the PHP project released emergency fixes for two critical remote code execution (RCE) vulnerabilities in the PHP core runtime, tracked as CVE-2026-109618 and CVE-2026-10",
+      "description": "October 22, 2026: We updated this post to add the AWS WAF PHP application managed rule group. Version 2.3 of the rule group adds the PHP2Shell_BODY&nbsp;rule for CVE-2026-109619, and AWS mad",
       "source": "AWS Security",
       "kind": "company",
       "image": "",
@@ -701,7 +721,7 @@
       "date": "21 Oct 2026"
     }
   ],
-  "checkedAt": "2026-10-22T15:41:08.111Z",
+  "checkedAt": "2026-10-22T19:32:46.487Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
   "searchMatches": 0
