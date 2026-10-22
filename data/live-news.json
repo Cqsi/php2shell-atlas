@@ -1,6 +1,196 @@
 {
   "items": [
     {
+      "title": "What is PHP , and how bad is the computer language flaw causing website shutdowns globally ?",
+      "description": "",
+      "source": "aol.co.uk",
+      "kind": "reporting",
+      "image": "https://hermes.media.static.aol.com/media/2026/10/22/172a0af9-0f42-3dcd-82a7-98ec83207992/e7be9bc7-5c56-43d5-8f13-f8f750d39121.jpg",
+      "url": "https://www.aol.co.uk/articles/php-bad-computer-language-flaw-042119000.html",
+      "publishedAt": "2026-10-22T05:00:00.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "Two critical PHP flaws put the web on alert as emergency patches arrive",
+      "description": "",
+      "source": "arnnet.com.au",
+      "kind": "reporting",
+      "image": "https://www.arnnet.com.au/wp-content/uploads/2026/10/4238806-0-04419200-1792627413-shutterstock_2238529723.jpg?quality=50&strip=all",
+      "url": "https://www.arnnet.com.au/article/4238806/two-critical-php-flaws-put-the-web-on-alert-as-emergency-patches-arrive-4.html",
+      "publishedAt": "2026-10-22T04:45:00.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "Critical PHP Security Flaws Threaten Millions of Websites Worldwide",
+      "description": "",
+      "source": "slguardian.org",
+      "kind": "reporting",
+      "image": "https://slguardian.org/wp-content/uploads/2026/02/daniil-komov-xHS2Gbjw4OI-unsplash.jpg",
+      "url": "https://slguardian.org/critical-php-security-flaws-threaten-millions-of-websites-worldwide/",
+      "publishedAt": "2026-10-22T04:30:00.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "World leaders warn of security flaws found in PHP programming language",
+      "description": "",
+      "source": "aljazeera.com",
+      "kind": "reporting",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad93379-1792619385.jpg",
+      "url": "https://www.aljazeera.com/news/2026/10/22/world-leaders-warn-against-security-flaw-found-in-php-computer-programming",
+      "publishedAt": "2026-10-22T04:15:00.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "Global alert over two critical PHP flaws forces government websites offline",
+      "description": "",
+      "source": "en.mercopress.com",
+      "kind": "reporting",
+      "image": "https://en.mercopress.com/data/cache/noticias/111851/600x315/php.jpg",
+      "url": "https://en.mercopress.com/2026/10/22/global-alert-over-two-critical-php-flaws-forces-government-websites-offline",
+      "publishedAt": "2026-10-22T04:00:00.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
+      "description": "",
+      "source": "wired.com",
+      "kind": "reporting",
+      "image": "https://media.wired.com/photos/6ad9723edb7d4e16032f01fc/191:100/w_1280,c_limit/Security_HackersExploitingPHPBugsinAmazon.jpg",
+      "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
+      "publishedAt": "2026-10-22T03:45:00.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "Critical PHP vulnerabilities : What is it , how it can affect websites & what should users know ?",
+      "description": "",
+      "source": "businesstoday.in",
+      "kind": "reporting",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ad9693692ef5-the-vulnerabilities-affect-multiple-php-versions--including-older-releases-the-php-project-has-issu-223901961-16x9.png",
+      "url": "https://www.businesstoday.in/technology/story/critical-php-vulnerabilities-what-is-it-how-it-can-affect-websites-what-should-users-know-562938-2026-10-22",
+      "publishedAt": "2026-10-22T03:30:00.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "PHP Issues Four Updates for Two Critical Web Server Flaws",
+      "description": "",
+      "source": "econotimes.com",
+      "kind": "reporting",
+      "image": "https://wfuxxvxhdynkhcrlavdu.supabase.co/storage/v1/object/public/article-media/articles/04ee99d99740c1e0496ec1621e4eca67804b4be0cc241f408ee7b05b11d908fc.webp",
+      "url": "https://econotimes.com/PHP-Issues-Four-Updates-for-Two-Critical-Web-Server-Flaws-1759731",
+      "publishedAt": "2026-10-22T03:00:00.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "Hackers Already Trying to Exploit Serious PHP Flaw",
+      "description": "",
+      "source": "pcmag.com",
+      "kind": "reporting",
+      "image": "https://i.pcmag.com/imagery/articles/074HxELXLcYguUXbWBIgqst-1.fit_lim.size_1200x630.v1792616541.jpg",
+      "url": "https://www.pcmag.com/news/hackers-already-trying-to-exploit-serious-php-flaw",
+      "publishedAt": "2026-10-22T03:00:00.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "5 Things To Know About Critical PHP Vulnerabilities Exploitation",
+      "description": "",
+      "source": "crn.com",
+      "kind": "reporting",
+      "image": "https://www.crn.com/news/security/2026/media_1a33e62a1fe1fd9d9bf3c6f5f1bd0aad0bf91dcbc.png?&format=pjpg&optimize=medium",
+      "url": "https://www.crn.com/news/security/2026/5-things-to-know-about-critical-php-vulnerabilities-exploitation",
+      "publishedAt": "2026-10-22T02:00:00.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "Update PHP or go offline : Japan PM , FBI warns organizations as major websites go dark ahead of critical cybersecurity update",
+      "description": "",
+      "source": "news.webindia123.com",
+      "kind": "reporting",
+      "image": "",
+      "url": "https://news.webindia123.com/news/Articles/World/20261022/4513559.html",
+      "publishedAt": "2026-10-22T01:45:00.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "There isnt an easy exploit for this PHP vulnerability",
+      "description": "",
+      "source": "eliastaylor.com",
+      "kind": "reporting",
+      "image": "",
+      "url": "https://eliastaylor.com/noexploit/",
+      "publishedAt": "2026-10-22T01:45:00.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "Japan PM , FBI Warn of Critical PHP Security Flaws as Major Websites Go Offline",
+      "description": "",
+      "source": "deccanchronicle.com",
+      "kind": "reporting",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/10/22/2103356-cybercrimeimage1024x576.jpg",
+      "url": "https://www.deccanchronicle.com/world/japan-pm-fbi-warn-of-critical-php-security-flaws-as-major-websites-go-offline-1997775",
+      "publishedAt": "2026-10-22T01:15:00.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "Ubuntu rolls out php2shell , eMudhra certificate fixes",
+      "description": "",
+      "source": "omgubuntu.co.uk",
+      "kind": "reporting",
+      "image": "https://www.omgubuntu.co.uk/wp-content/uploads/2021/05/Screenshot-2021-05-18-at-15.46.22.jpg",
+      "url": "https://www.omgubuntu.co.uk/2026/10/ubuntu-php2shell-emudhra-security-fixes",
+      "publishedAt": "2026-10-22T01:00:00.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "Why It’s Urgent to Update PHP on Your WordPress Site: Two Critical PHP Vulnerabilities and What Our Testing Found",
+      "description": "Two critical PHP flaws, CVE-2026-109618 and CVE-2026-109619, can allow unauthenticated code execution. Updating WordPress won't fix them. Update and restart PHP. The post Why It’s Urgent to ",
+      "source": "Wordfence",
+      "kind": "company",
+      "image": "https://www.wordfence.com/wp-content/uploads/2026/10/FeaturedImage_Wordfence_PHP_3.02.03-1-1024x534.png",
+      "url": "https://www.wordfence.com/blog/2026/10/critical-php-update-wordpress-vulnerabilities-testing/",
+      "publishedAt": "2026-10-22T00:51:21.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "Using AWS WAF to apply mitigations for PHP2Shell RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619)",
+      "description": "On October 21, 2026, the PHP project released emergency fixes for two critical remote code execution (RCE) vulnerabilities in the PHP core runtime, tracked as CVE-2026-109618 and CVE-2026-10",
+      "source": "AWS Security",
+      "kind": "company",
+      "image": "",
+      "url": "https://aws.amazon.com/blogs/security/using-aws-waf-to-apply-mitigations-for-php2shell-rce-vulnerabilities-cve-2026-109618-and-cve-2026-109619/",
+      "publishedAt": "2026-10-22T00:50:04.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "PHP Fixes Critical Security Flaws That Put Millions of Websites at Risk",
+      "description": "",
+      "source": "techweez.com",
+      "kind": "reporting",
+      "image": "https://techweez.com/wp-content/uploads/2026/10/php-security-vulnerabilities.webp",
+      "url": "https://techweez.com/2026/10/21/php-security-vulnerabilities/",
+      "publishedAt": "2026-10-21T23:15:00.000Z",
+      "date": "21 Oct 2026"
+    },
+    {
+      "title": "PHP2Shell : Why Today PHP Security Alert Hit Close to Home - The Gadget Man | AI & Tech News and Reviews",
+      "description": "",
+      "source": "thegadgetman.org.uk",
+      "kind": "reporting",
+      "image": "https://www.thegadgetman.org.uk/wp-content/uploads/2026/10/php-doomsday.jpg",
+      "url": "https://www.thegadgetman.org.uk/php2shell-why-todays-php-security-alert-hit-close-to-home/",
+      "publishedAt": "2026-10-21T22:45:00.000Z",
+      "date": "21 Oct 2026"
+    },
+    {
+      "title": "Japanese PM , US agencies urge global websites to patch critical PHP flaws or go offline",
+      "description": "",
+      "source": "kenya-today.com",
+      "kind": "reporting",
+      "image": "https://tech-ish.com/wp-content/uploads/2026/10/php2shell-hero-1920x1080-1.jpg",
+      "url": "https://kenya-today.com/report-japanese-pm-us-agencies-urge-global-websites-to-patch-critical-php-flaws-or-go-offline-14768/",
+      "publishedAt": "2026-10-21T22:45:00.000Z",
+      "date": "21 Oct 2026"
+    },
+    {
       "title": "Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot",
       "description": "Amazon Threat Intelligence identified a PHP2Shell exploitation attempt dating to Oct. 17, 2026, in MadPot telemetry, four days before public disclosure of CVE-2026-109618 and CVE-2026-109619",
       "source": "AWS Security",
@@ -11,6 +201,36 @@
       "date": "21 Oct 2026"
     },
     {
+      "title": "Türkiye launches nationwide cyber alert over critical PHP flaws",
+      "description": "",
+      "source": "dailysabah.com",
+      "kind": "reporting",
+      "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/10/21/thumbs/1200x675/466899.jpg",
+      "url": "https://www.dailysabah.com/business/tech/turkiye-launches-nationwide-cyber-alert-over-critical-php-flaws",
+      "publishedAt": "2026-10-21T22:15:00.000Z",
+      "date": "21 Oct 2026"
+    },
+    {
+      "title": "Critical PHP vulnerabilities send organizations scrambling to secure their systems",
+      "description": "",
+      "source": "siliconangle.com",
+      "kind": "reporting",
+      "image": "",
+      "url": "https://siliconangle.com/2026/10/21/critical-php-vulnerabilities-send-organizations-scrambling-to-secure-their-systems/",
+      "publishedAt": "2026-10-21T21:30:00.000Z",
+      "date": "21 Oct 2026"
+    },
+    {
+      "title": "AI helped discover the PHP vulnerability that could take down 70 % of the internet",
+      "description": "",
+      "source": "fortune.com",
+      "kind": "reporting",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2277432403-e1792606578963.jpg",
+      "url": "https://fortune.com/2026/10/21/ai-tools-discovered-the-php-vulnerability-that-could-take-down-70-of-the-internet-now-the-race-is-on-to-patch-it-before-ai-powered-hackers-attack/",
+      "publishedAt": "2026-10-21T21:15:00.000Z",
+      "date": "21 Oct 2026"
+    },
+    {
       "title": "Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) [infocon yellow], (Wed, Oct 21st)",
       "description": "PHP.net announced that it will release a critical update today. We decided to change the infoCon to YELLOW due to the widespread use of PHP, the expected severity of the flaw (CVSS 9.4), and",
       "source": "SANS ISC",
@@ -18,6 +238,26 @@
       "image": "",
       "url": "https://isc.sans.edu/diary/rss/33440",
       "publishedAt": "2026-10-21T21:02:43.000Z",
+      "date": "21 Oct 2026"
+    },
+    {
+      "title": "Critical PHP flaws put millions of websites at risk as governments pull sites offline",
+      "description": "",
+      "source": "weartv.com",
+      "kind": "reporting",
+      "image": "https://weartv.com/resources/media2/16x9/3000/1320/0x40/90/007c728b-9ea2-4109-848b-4b1929c914d2-GettyImages73534290.jpg",
+      "url": "https://weartv.com/news/nation-world/critical-php-flaws-put-millions-of-websites-at-risk-as-governments-pull-sites-offline",
+      "publishedAt": "2026-10-21T20:45:00.000Z",
+      "date": "21 Oct 2026"
+    },
+    {
+      "title": "OpenAI helped find the PHP flaws now shaking the internet",
+      "description": "",
+      "source": "mashable.com",
+      "kind": "reporting",
+      "image": "https://helios-i.mashable.com/imagery/articles/02OlLM0Zq6G5sgZMQmeHA9n/hero-image.fill.size_1200x675.v1792604895.jpg",
+      "url": "https://mashable.com/tech/openai-takes-credit-for-finding-php-flaws",
+      "publishedAt": "2026-10-21T20:30:00.000Z",
       "date": "21 Oct 2026"
     },
     {
@@ -41,22 +281,22 @@
       "date": "21 Oct 2026"
     },
     {
-      "title": "PHP security issues : Websites go offline amid critical update",
-      "description": "",
-      "source": "thenationalnews.com",
-      "kind": "reporting",
-      "image": "https://www.thenationalnews.com/resizer/v2/S445IWNQ26BPWHZAMENGO3DIHQ.jpg?auth=69c1ca7cdebbc3a33275efa2303cafbf83af0f120013a41bdb89a24350d5b67f&smart=true",
-      "url": "https://www.thenationalnews.com/future/technology/2026/10/21/php-security-issues-exploit/",
-      "publishedAt": "2026-10-21T18:45:00.000Z",
-      "date": "21 Oct 2026"
-    },
-    {
       "title": "Critical PHP Patches Address Very , Very Bad Vulnerability",
       "description": "",
       "source": "govinfosecurity.com",
       "kind": "reporting",
       "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/critical-php-patches-address-very-very-bad-vulnerability-image_large-6-a-33162.jpg",
       "url": "https://www.govinfosecurity.com/critical-php-patches-address-very-very-bad-vulnerability-a-33162",
+      "publishedAt": "2026-10-21T18:45:00.000Z",
+      "date": "21 Oct 2026"
+    },
+    {
+      "title": "PHP security issues : Websites go offline amid critical update",
+      "description": "",
+      "source": "thenationalnews.com",
+      "kind": "reporting",
+      "image": "https://www.thenationalnews.com/resizer/v2/S445IWNQ26BPWHZAMENGO3DIHQ.jpg?auth=69c1ca7cdebbc3a33275efa2303cafbf83af0f120013a41bdb89a24350d5b67f&smart=true",
+      "url": "https://www.thenationalnews.com/future/technology/2026/10/21/php-security-issues-exploit/",
       "publishedAt": "2026-10-21T18:45:00.000Z",
       "date": "21 Oct 2026"
     },
@@ -151,6 +391,16 @@
       "date": "21 Oct 2026"
     },
     {
+      "title": "PHP devs publish critical bug fix as site owners warned : Pull em offline if youre unpatched",
+      "description": "",
+      "source": "theregister.com",
+      "kind": "reporting",
+      "image": "https://image.theregister.com/263315.jpg?imageId=263315&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100",
+      "url": "https://www.theregister.com/security/2026/10/21/php-devs-publish-critical-bug-fix-as-site-owners-warned-pull-em-offline-if-youre-unpatched/5304519",
+      "publishedAt": "2026-10-21T16:15:00.000Z",
+      "date": "21 Oct 2026"
+    },
+    {
       "title": "This Is Not a Drill : Critical PHP Vulnerabilities Are Setting the Internet on Fire",
       "description": "",
       "source": "wired.com",
@@ -167,16 +417,6 @@
       "kind": "reporting",
       "image": "https://cdn.mos.cms.futurecdn.net/pL5rBKGq88cnoqgdJgCXGS-2560-80.jpg",
       "url": "https://www.techradar.com/pro/security/website-admins-across-the-world-bracing-for-impact-following-major-php-flaw-reveal",
-      "publishedAt": "2026-10-21T16:15:00.000Z",
-      "date": "21 Oct 2026"
-    },
-    {
-      "title": "PHP devs publish critical bug fix as site owners warned : Pull em offline if youre unpatched",
-      "description": "",
-      "source": "theregister.com",
-      "kind": "reporting",
-      "image": "https://image.theregister.com/263315.jpg?imageId=263315&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100",
-      "url": "https://www.theregister.com/security/2026/10/21/php-devs-publish-critical-bug-fix-as-site-owners-warned-pull-em-offline-if-youre-unpatched/5304519",
       "publishedAt": "2026-10-21T16:15:00.000Z",
       "date": "21 Oct 2026"
     },
@@ -218,6 +458,16 @@
       "image": "https://www.thenews.com.pk/assets/uploads/2026-10-21/1420771_054108_updates.jpg",
       "url": "https://www.thenews.com.pk/latest/1420771-critical-php-security-vulnerabilities-how-to-fix-them",
       "publishedAt": "2026-10-21T15:15:00.000Z",
+      "date": "21 Oct 2026"
+    },
+    {
+      "title": "PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
+      "description": "",
+      "source": "IPA Japan",
+      "kind": "official",
+      "image": "",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261022.html",
+      "publishedAt": "2026-10-21T15:00:00.000Z",
       "date": "21 Oct 2026"
     },
     {
@@ -352,7 +602,7 @@
     },
     {
       "title": "php2shell (CVE-2026-109618, CVE-2026-109619): Frequently asked questions about critical PHP remote code execution vulnerabilities",
-      "description": "<p><strong>PHP has released patches for two critical remote code execution vulnerabilities. Fixes are available for PHP 8.2 through 8.5, with source backports for end-of-life PHP 7.4 through",
+      "description": "<p><strong>Two critical PHP vulnerabilities could lead to unauthenticated remote code execution. Patches are available for supported PHP 8.x branches, and exploitation attempts began before ",
       "source": "Tenable",
       "kind": "company",
       "image": "",
@@ -401,8 +651,8 @@
       "date": "21 Oct 2026"
     }
   ],
-  "checkedAt": "2026-10-22T00:43:02.136Z",
+  "checkedAt": "2026-10-22T05:25:39.203Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
-  "searchMatches": 0
+  "searchMatches": 49
 }
