@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
+      "description": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
+      "source": "BleepingComputer",
+      "kind": "reporting",
+      "image": "",
+      "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
+      "publishedAt": "2026-10-22T13:09:12.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "New PHP2Shell scanner checks your hosts for CVE-2026-109618 and CVE-2026-109619",
+      "description": "Searchlight Cyber released php2shell-scanner, an open-source tool that tests whether a host is exposed to CVE-2026-109618 and CVE-2026-109619, the pair of PHP remote code execution bugs patc",
+      "source": "Help Net Security",
+      "kind": "reporting",
+      "image": "",
+      "url": "https://www.helpnetsecurity.com/2026/10/22/php2shell-scanner-tool/",
+      "publishedAt": "2026-10-22T12:03:17.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
       "title": "What the PHP2Shell vulnerability means for Fortinet, Cisco and Palo Alto customers",
       "description": "Palo Alto Networks confirmed that all versions of PAN-OS and Panorama are affected by PHP2Shell, a pair of critical PHP vulnerabilities that let an attacker run code on a web server without ",
       "source": "Help Net Security",
@@ -451,8 +471,8 @@
       "date": "21 Oct 2026"
     },
     {
-      "title": "PHP2Shell: Why websites are going offline for emergency security updates",
-      "description": "Websites are temporarily going offline as admins address two critical PHP flaws that could let attackers run malicious code on their servers.",
+      "title": "PHP2Shell: Why many websites had to go offline for emergency security updates",
+      "description": "Many websites were temporarily taken offline while admins addressed two critical PHP flaws that could have let attackers run malicious code on their servers.",
       "source": "Malwarebytes",
       "kind": "company",
       "image": "",
@@ -662,7 +682,7 @@
     },
     {
       "title": "[Màj] Multiples vulnérabilités dans PHP (21 octobre 2026)",
-      "description": "**[Mise à jours du 21 octobre 2026]** Les correctifs de sécurité sont disponibles sur le site de l'éditeur. PHP indique que les vulnérabilités CVE-2026-109618 et CVE-2026-109619 permettent à",
+      "description": "**[Mise à jour du 22 octobre 2026]** Le CERT-FR a connaissance de preuves de concept pour les vulnérabilités CVE-2026-109618 et CVE-2026-109619 pour des déploiements spécifique de PHP. **[Mi",
       "source": "CERT-FR",
       "kind": "official",
       "image": "",
@@ -681,7 +701,7 @@
       "date": "21 Oct 2026"
     }
   ],
-  "checkedAt": "2026-10-22T10:40:28.744Z",
+  "checkedAt": "2026-10-22T15:41:08.111Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
   "searchMatches": 0
