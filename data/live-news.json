@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "What the PHP2Shell vulnerability means for Fortinet, Cisco and Palo Alto customers",
+      "description": "Palo Alto Networks confirmed that all versions of PAN-OS and Panorama are affected by PHP2Shell, a pair of critical PHP vulnerabilities that let an attacker run code on a web server without ",
+      "source": "Help Net Security",
+      "kind": "reporting",
+      "image": "",
+      "url": "https://www.helpnetsecurity.com/2026/10/22/php2shell-vulnerability-fortinet-cisco-palo-alto-networks/",
+      "publishedAt": "2026-10-22T10:22:56.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "PHP2Shell Exploitation Attempt Detected by Amazon Four Days Before Vulnerability Disclosure",
+      "description": "Threat intelligence analysts now observe large-scale evidence of exploitation of the two critical PHP vulnerabilities",
+      "source": "Infosecurity Magazine",
+      "kind": "reporting",
+      "image": "",
+      "url": "https://www.infosecurity-magazine.com/news/php2shell-exploitation-attempt/",
+      "publishedAt": "2026-10-22T10:10:00.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
+      "description": "Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities on October 17, 2026, against its MadPot honeypot service, ",
+      "source": "The Hacker News",
+      "kind": "reporting",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZXm1gLzaKPP-QW888zIx_tXRCirkgZBsOOn0icTEOrFBf7w28955jH1zY8jxw2Cf-g2Qp9mPHgrBe7E5dux_L2XUzdaVZfvRgj_utCT-nTiU7haAkAr_F6eEeW5YJmtwbtJoIuumhnv5F9tFG_2BcLwnaqwkFGWEvFnWsUDHHuobMhZ_letCSD6I56Lw_/s1600/php-hacks.jpg",
+      "url": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
+      "publishedAt": "2026-10-22T06:34:10.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
       "title": "What is PHP , and how bad is the computer language flaw causing website shutdowns globally ?",
       "description": "",
       "source": "aol.co.uk",
@@ -651,8 +681,8 @@
       "date": "21 Oct 2026"
     }
   ],
-  "checkedAt": "2026-10-22T05:25:39.203Z",
+  "checkedAt": "2026-10-22T10:40:28.744Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
-  "searchMatches": 49
+  "searchMatches": 0
 }
