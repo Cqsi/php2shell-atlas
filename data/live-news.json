@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Attacks on PHP2Shell Continue, But No Known Compromises as a Result Yet",
+      "description": "On October 21st, 2026, the PHP project released emergency updates for two critical vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619. We warned site owners before the fixes beca",
+      "source": "Wordfence",
+      "kind": "company",
+      "image": "https://www.wordfence.com/wp-content/uploads/2026/10/FeaturedImage_Wordfence_PHP2Shell_1.01-1024x534.png",
+      "url": "https://www.wordfence.com/blog/2026/10/attacks-on-php2shell-continue-but-no-known-compromises-as-a-result-yet/",
+      "publishedAt": "2026-10-22T22:24:25.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "The adversary economy: How threat actors are reacting to PHP2Shell",
+      "description": "<p>Two critical PHP vulnerabilities sent criminal forum operators scrambling to protect their own infrastructure, revealing that threat actors face the same exposure management challenges as",
+      "source": "Tenable",
+      "kind": "company",
+      "image": "",
+      "url": "https://www.tenable.com/blog/php2shell-vulnerability-threat-actor-response",
+      "publishedAt": "2026-10-22T22:04:00.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "PHP2Shell: Early Attack Activity Through Imperva’s Lens",
+      "description": "Following the public disclosure of PHP2Shell (CVE-2026-109618 and CVE-2026-109619), Imperva Threat Research observed a sharp increase in scanning and exploitation attempts across protected e",
+      "source": "Imperva",
+      "kind": "company",
+      "image": "https://www.imperva.com/blog/wp-content/uploads/sites/9/2026/10/imperva_shield.png",
+      "url": "https://www.imperva.com/blog/php2shell-early-attack-activity-through-impervas-lens/",
+      "publishedAt": "2026-10-22T16:30:48.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
       "title": "PHP2Shell Attacks Started Four Days Before Public Disclosure, AWS Reports",
       "description": "AWS detected PHP2Shell exploit attempts four days before disclosure, highlighting the risk of attackers exploiting critical flaws before patches arrive. Attackers attempted to exploit two cr",
       "source": "Security Affairs",
@@ -721,7 +751,7 @@
       "date": "21 Oct 2026"
     }
   ],
-  "checkedAt": "2026-10-22T19:32:46.487Z",
+  "checkedAt": "2026-10-22T22:47:42.096Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
   "searchMatches": 0
