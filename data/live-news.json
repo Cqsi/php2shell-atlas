@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "(Reliable)? php2shell exploitability, (Fri, Oct 23rd)",
+      "description": "Yesterday everyone was running around like crazy (me included :) because of the php2shell vulnerability.",
+      "source": "SANS ISC",
+      "kind": "research",
+      "image": "",
+      "url": "https://isc.sans.edu/diary/rss/33452",
+      "publishedAt": "2026-10-23T20:04:47.000Z",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "Exposed to PHP2Shell? Cyber Experts Weigh in With Advice",
+      "description": "Fixing the critical PHP flaws is not as simple as clicking \"Update.\" Here's how to assess your risk, and what you can do to protect yourself.",
+      "source": "Dark Reading",
+      "kind": "reporting",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte307a3bd1a7bcb35/6adb9c8d2d5b887cc408cb52/Globe_bandages-zennie-Getty.jpg?width=720&quality=80&disable=upscale",
+      "url": "https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice",
+      "publishedAt": "2026-10-23T19:41:23.000Z",
+      "date": "23 Oct 2026"
+    },
+    {
       "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 23)",
       "description": "CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP, a scripting language used globally for web servers and CMS systems. The post Threat Brief: Critical Vulnerabilities i",
       "source": "Unit 42",
@@ -811,7 +831,7 @@
       "date": "21 Oct 2026"
     }
   ],
-  "checkedAt": "2026-10-23T19:58:25.529Z",
+  "checkedAt": "2026-10-23T23:10:40.493Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
   "searchMatches": 0
