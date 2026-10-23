@@ -1,13 +1,33 @@
 {
   "items": [
     {
-      "title": "URGENT - PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
+      "title": "426 Android and iOS Apps Linked to PHP2Shell Backend Risks",
+      "description": "Research found 426 mobile apps connecting to servers advertising PHP versions potentially affected by PHP2Shell vulnerabilities, raising concerns…",
+      "source": "HackRead",
+      "kind": "reporting",
+      "image": "",
+      "url": "https://hackread.com/426-android-ios-apps-linked-php2shell-backend-risks/",
+      "publishedAt": "2026-10-23T12:41:06.000Z",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
       "description": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned CVE-2026-115560,",
       "source": "The Hacker News",
       "kind": "reporting",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSXE1XecomGt7TSLi_DCDVL8oQjsLEtppNNGjkuW1cbVl-cXZkMG-rqTr-oSVz_6XfoU8aoScw3rjGxsnTpV3JaV5eWfj431lg09Rnrrk1UjwNq1ZEofkwR4FaM2qatC_FD9ZNBZk-T9_9ddu8n-BtUkhwVgWzc2ZvaWAHP8eMxlLU19qxIjlXeHOJYHs/s1600/php2.jpg",
       "url": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
       "publishedAt": "2026-10-23T11:25:43.000Z",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "PHP2Shell: Millions of Attacks, No Confirmed Successful Exploits Yet",
+      "description": "PHP2Shell attacks have surged into the millions, but no successful exploitation is confirmed. Patch it immediately. On October 21, PHP released emergency patches for two critical vulnerabili",
+      "source": "Security Affairs",
+      "kind": "reporting",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f325.png",
+      "url": "https://securityaffairs.com/201538/hacking/php2shell-millions-of-attacks-no-confirmed-successful-exploits-yet.html",
+      "publishedAt": "2026-10-23T10:52:00.000Z",
       "date": "23 Oct 2026"
     },
     {
@@ -771,7 +791,7 @@
       "date": "21 Oct 2026"
     }
   ],
-  "checkedAt": "2026-10-23T11:44:10.997Z",
+  "checkedAt": "2026-10-23T15:57:20.316Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
   "searchMatches": 0
