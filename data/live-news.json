@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 23)",
+      "description": "CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP, a scripting language used globally for web servers and CMS systems. The post Threat Brief: Critical Vulnerabilities i",
+      "source": "Unit 42",
+      "kind": "company",
+      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/10/03_Vulnerabilities_1920x900.jpg",
+      "url": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
+      "publishedAt": "2026-10-23T19:00:34.000Z",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "PHP Warns of New Code Execution Flaw Days After PHP2Shell Patches",
+      "description": "PHP warns of a new, unlikely code execution flaw, CVE-2026-115560, and advises disabling session upload progress until a fix is released. PHP has warned of a new code execution vulnerability",
+      "source": "Security Affairs",
+      "kind": "reporting",
+      "image": "",
+      "url": "https://securityaffairs.com/201595/security/php-warns-of-new-code-execution-flaw-days-after-php2shell-patches.html",
+      "publishedAt": "2026-10-23T18:07:27.000Z",
+      "date": "23 Oct 2026"
+    },
+    {
       "title": "426 Android and iOS Apps Linked to PHP2Shell Backend Risks",
       "description": "Research found 426 mobile apps connecting to servers advertising PHP versions potentially affected by PHP2Shell vulnerabilities, raising concerns…",
       "source": "HackRead",
@@ -38,6 +58,16 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3SkRCDhjMsUS2FZ9ES40x39o7u2jdwMQDcq4NC75CsC2Xjji94ZZt_0Jgzdxmbf92n3razC07QvKJ-VT65axzIbXWoYrHytaQhNRBdYEMgmb1Fki-gR2NKY1TXuhpb9lcCemaPSqu8E0Q6KVczRNa97_7tj5Vyt0wngICj6GnWEHphW8fpaSybzKAa-pV/s1600/phpshell.jpg",
       "url": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
       "publishedAt": "2026-10-23T07:40:45.000Z",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "Reports of PHP bug exploitation attempts grow as experts downplay viability of exploits",
+      "description": "The headline-grabbing bugs known colloquially as PHP2Shell are giving cyber analysts a lot to track — and a lot to debunk.",
+      "source": "The Record",
+      "kind": "reporting",
+      "image": "",
+      "url": "https://therecord.media/php-php2shell-exploitation-attempts-pocs",
+      "publishedAt": "2026-10-23T04:00:00.000Z",
       "date": "23 Oct 2026"
     },
     {
@@ -292,7 +322,7 @@
     },
     {
       "title": "Using AWS WAF to apply mitigations for PHP2Shell RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619)",
-      "description": "October 22, 2026: We updated this post to add the AWS WAF PHP application managed rule group. Version 2.3 of the rule group adds the PHP2Shell_BODY&nbsp;rule for CVE-2026-109619, and AWS mad",
+      "description": "October 23, 2026: We updated this post for version 2.4 of the AWS WAF PHP application managed rule group, which adds the PHP2Shell_BODY_Extended rule for CVE-2026-109618, and AWS made it the",
       "source": "AWS Security",
       "kind": "company",
       "image": "",
@@ -491,16 +521,6 @@
       "date": "21 Oct 2026"
     },
     {
-      "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619",
-      "description": "CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP, a scripting language used globally for web servers and CMS systems. The post Threat Brief: Critical Vulnerabilities i",
-      "source": "Unit 42",
-      "kind": "company",
-      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/10/03_Vulnerabilities_1920x900.jpg",
-      "url": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
-      "publishedAt": "2026-10-21T16:30:34.000Z",
-      "date": "21 Oct 2026"
-    },
-    {
       "title": "PHP2Shell : AI uncovers critical RCE vulnerabilities affecting 70 % of the Internet",
       "description": "",
       "source": "wiz.io",
@@ -561,8 +581,8 @@
       "date": "21 Oct 2026"
     },
     {
-      "title": "PHP2Shell: Why many websites had to go offline for emergency security updates",
-      "description": "Many websites were temporarily taken offline while admins addressed two critical PHP flaws that could have let attackers run malicious code on their servers.",
+      "title": "PHP2Shell: Why many websites had to go offline",
+      "description": "Many sites were taken offline so admins could patch two critical PHP flaws that could have let attackers run malicious code on their servers.",
       "source": "Malwarebytes",
       "kind": "company",
       "image": "",
@@ -791,7 +811,7 @@
       "date": "21 Oct 2026"
     }
   ],
-  "checkedAt": "2026-10-23T15:57:20.316Z",
+  "checkedAt": "2026-10-23T19:58:25.529Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
   "searchMatches": 0
