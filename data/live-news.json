@@ -81,6 +81,16 @@
       "date": "23 Oct 2026"
     },
     {
+      "title": "Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation",
+      "description": "",
+      "source": "CrowdStrike",
+      "kind": "company",
+      "image": "",
+      "url": "https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/",
+      "publishedAt": "2026-10-23T05:00:00.000Z",
+      "date": "23 Oct 2026"
+    },
+    {
       "title": "Reports of PHP bug exploitation attempts grow as experts downplay viability of exploits",
       "description": "The headline-grabbing bugs known colloquially as PHP2Shell are giving cyber analysts a lot to track — and a lot to debunk.",
       "source": "The Record",
@@ -342,7 +352,7 @@
     },
     {
       "title": "Using AWS WAF to apply mitigations for PHP2Shell RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619)",
-      "description": "October 23, 2026: We updated this post for version 2.4 of the AWS WAF PHP application managed rule group, which adds the PHP2Shell_BODY_Extended rule for CVE-2026-109618, and AWS made it the",
+      "description": "October 23, 2026-2: The PHP project disclosed CVE-2026-115560, a separate remote code execution issue that the October 21 releases don’t fix. It affects only applications with an uncommon co",
       "source": "AWS Security",
       "kind": "company",
       "image": "",
@@ -831,7 +841,7 @@
       "date": "21 Oct 2026"
     }
   ],
-  "checkedAt": "2026-10-23T23:10:40.493Z",
+  "checkedAt": "2026-10-24T01:38:12.747Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
   "searchMatches": 0
