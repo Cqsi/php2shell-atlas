@@ -1,6 +1,96 @@
 {
   "items": [
     {
+      "title": "Pierluigi Paganini answers questions about the PHP2Shell flaws",
+      "description": "Pierluigi Paganini answers questions about the PHP2Shell vulnerability, early exploitation, AI-assisted attacks, and the risks to businesses, servers, and personal data. 1. Your latest repor",
+      "source": "Security Affairs",
+      "kind": "reporting",
+      "image": "",
+      "url": "https://securityaffairs.com/201662/hacking/pierluigi-paganini-answers-questions-about-the-php2shell-flaws.html",
+      "publishedAt": "2026-10-24T18:58:38.000Z",
+      "date": "24 Oct 2026"
+    },
+    {
+      "title": "PHP - ocalypse : How two critical web bugs almost broke the internet",
+      "description": "",
+      "source": "techcrunch.com",
+      "kind": "reporting",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/php-web-bug-padlock-2300746159.jpg",
+      "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
+      "publishedAt": "2026-10-24T16:15:00.000Z",
+      "date": "24 Oct 2026"
+    },
+    {
+      "title": "Critical PHP vulnerabilities force government websites offline – NaturalNews . com",
+      "description": "",
+      "source": "naturalnews.com",
+      "kind": "reporting",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/cyber-attacks-ceasefire-hybrid-warfare-1235-original.jpg",
+      "url": "https://www.naturalnews.com/2026-10-24-critical-php-vulnerabilities-force-govt-websites-offline.html",
+      "publishedAt": "2026-10-24T15:45:00.000Z",
+      "date": "24 Oct 2026"
+    },
+    {
+      "title": "AI found the flaw . Hackers found the leak : The race to save PHP2SHELL",
+      "description": "",
+      "source": "iowapublicradio.org",
+      "kind": "reporting",
+      "image": "",
+      "url": "https://www.iowapublicradio.org/news-from-npr/2026-10-24/ai-found-the-flaw-hackers-found-the-leak-the-race-to-save-php2shell",
+      "publishedAt": "2026-10-24T15:30:00.000Z",
+      "date": "24 Oct 2026"
+    },
+    {
+      "title": "Global PHP Security Scare Highlights Why Stealth Matters in Cyberspace",
+      "description": "",
+      "source": "theaviationist.com",
+      "kind": "reporting",
+      "image": "https://theaviationist.com/wp-content/uploads/2026/10/B-2-cyber.jpg",
+      "url": "https://theaviationist.com/2026/10/24/php-security-scare-stealth/",
+      "publishedAt": "2026-10-24T15:30:00.000Z",
+      "date": "24 Oct 2026"
+    },
+    {
+      "title": "AI is finding software flaws faster , and so are hackers : Inside the PHP scramble",
+      "description": "",
+      "source": "economictimes.indiatimes.com",
+      "kind": "reporting",
+      "image": "https://img.etimg.com/thumb/msid-135168290,width-1200,height-900,imgsize-154356,overlay-economictimes/articleshow.jpg",
+      "url": "https://economictimes.indiatimes.com/ai/ai-insights/ai-is-finding-software-flaws-faster-and-so-are-hackers-inside-the-php-scramble/articleshow/135168257.cms",
+      "publishedAt": "2026-10-24T11:30:00.000Z",
+      "date": "24 Oct 2026"
+    },
+    {
+      "title": "DICT cybersecurity unit warns of critical PHP flaws that could expose websites to hackers",
+      "description": "",
+      "source": "newsbytes.ph",
+      "kind": "reporting",
+      "image": "https://newsbytes.ph/wp-content/uploads/2026/10/PHP.jpg",
+      "url": "https://newsbytes.ph/2026/10/24/dict-cybersecurity-unit-warns-of-critical-php-flaws-that-could-expose-websites-to-hackers/",
+      "publishedAt": "2026-10-24T06:45:00.000Z",
+      "date": "24 Oct 2026"
+    },
+    {
+      "title": "PHP Emergency Fixes Highlight Reliance on Limited Security Staff",
+      "description": "",
+      "source": "econotimes.com",
+      "kind": "reporting",
+      "image": "https://wfuxxvxhdynkhcrlavdu.supabase.co/storage/v1/object/public/article-media/articles/fe862d88b5a93926c879d26152afbbccf8659cac8f789b850c5acaa52ab6162c.webp",
+      "url": "https://econotimes.com/PHP-s-Emergency-Fixes-Highlight-Reliance-on-Limited-Security-Staff-1762048",
+      "publishedAt": "2026-10-24T05:15:00.000Z",
+      "date": "24 Oct 2026"
+    },
+    {
+      "title": "Nepal Financial Sector Takes Precautionary Steps Against Global PHP Flaw",
+      "description": "",
+      "source": "reviewnepal.com",
+      "kind": "reporting",
+      "image": "https://www.reviewnepal.com/storage/uploads/2026/09/nepal-rastra-bank-1790270334.jpg",
+      "url": "https://www.reviewnepal.com/nepal-financial-sector-takes-precautionary-steps-against-global-php-flaw/",
+      "publishedAt": "2026-10-24T02:30:00.000Z",
+      "date": "24 Oct 2026"
+    },
+    {
       "title": "(Reliable)? php2shell exploitability, (Fri, Oct 23rd)",
       "description": "Yesterday everyone was running around like crazy (me included :) because of the php2shell vulnerability.",
       "source": "SANS ISC",
@@ -38,6 +128,26 @@
       "image": "",
       "url": "https://securityaffairs.com/201595/security/php-warns-of-new-code-execution-flaw-days-after-php2shell-patches.html",
       "publishedAt": "2026-10-23T18:07:27.000Z",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "AWS says hackers tried to exploit PHP security issues days before fix as Cloudflare CEO says it saw a huge rise in targeted attack attempts",
+      "description": "",
+      "source": "techradar.com",
+      "kind": "reporting",
+      "image": "https://cdn.mos.cms.futurecdn.net/t5swVJor4haSjMRKQ2b6pi-2560-80.jpg",
+      "url": "https://www.techradar.com/pro/security/aws-says-hackers-tried-to-exploit-php-security-issues-days-before-fix-as-cloudflare-ceo-says-it-saw-a-huge-rise-in-targeted-attack-attempts",
+      "publishedAt": "2026-10-23T14:30:00.000Z",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "PHP2Shell alarm a major cyber security wake - up call",
+      "description": "",
+      "source": "itweb.co.za",
+      "kind": "reporting",
+      "image": "https://www.itweb.co.za/static/pictures/2026/10/1402450534.jpg",
+      "url": "https://www.itweb.co.za/article/php2shell-alarm-a-major-cyber-security-wake-up-call/WnpNgM21VmP7VrGd",
+      "publishedAt": "2026-10-23T13:00:00.000Z",
       "date": "23 Oct 2026"
     },
     {
@@ -81,6 +191,26 @@
       "date": "23 Oct 2026"
     },
     {
+      "title": "PHP flaws exploited days before disclosure , Amazon asks users to update immediately",
+      "description": "",
+      "source": "moneycontrol.com",
+      "kind": "reporting",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260611085425_aws.png",
+      "url": "https://www.moneycontrol.com/technology/php-flaws-exploited-days-before-disclosure-amazon-asks-users-to-update-immediately-article-14058312.html",
+      "publishedAt": "2026-10-23T06:30:00.000Z",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "Critical PHP flaws raise cyberattack fears worldwide",
+      "description": "",
+      "source": "orissapost.com",
+      "kind": "reporting",
+      "image": "https://www.orissapost.com/wp-content/uploads/2018/12/cyberattacks.jpg",
+      "url": "https://www.orissapost.com/critical-php-flaws-raise-cyberattack-fears-worldwide/",
+      "publishedAt": "2026-10-23T05:30:00.000Z",
+      "date": "23 Oct 2026"
+    },
+    {
       "title": "Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation",
       "description": "",
       "source": "CrowdStrike",
@@ -91,6 +221,16 @@
       "date": "23 Oct 2026"
     },
     {
+      "title": "Critical PHP Security Update What united kingdom Website Owners Must Do Now",
+      "description": "",
+      "source": "phoenixfm.com",
+      "kind": "reporting",
+      "image": "https://phoenixfm.com/wp-content/uploads/2026/10/critical-php-update-hero.png",
+      "url": "https://phoenixfm.com/2026/10/23/critical-php-security-update-what-uk-website-owners-must-do-now/",
+      "publishedAt": "2026-10-23T04:30:00.000Z",
+      "date": "23 Oct 2026"
+    },
+    {
       "title": "Reports of PHP bug exploitation attempts grow as experts downplay viability of exploits",
       "description": "The headline-grabbing bugs known colloquially as PHP2Shell are giving cyber analysts a lot to track — and a lot to debunk.",
       "source": "The Record",
@@ -98,6 +238,16 @@
       "image": "",
       "url": "https://therecord.media/php-php2shell-exploitation-attempts-pocs",
       "publishedAt": "2026-10-23T04:00:00.000Z",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "Tech Explainer : What You Need to Know About the PHP Flaw Threatening the Internet",
+      "description": "",
+      "source": "breitbart.com",
+      "kind": "reporting",
+      "image": "https://media.breitbart.com/media/2026/10/updating-computer-640x335.jpg",
+      "url": "https://www.breitbart.com/tech/2026/10/22/tech-explainer-what-you-need-to-know-about-the-php-flaw-threatening-the-internet/",
+      "publishedAt": "2026-10-23T02:30:00.000Z",
       "date": "23 Oct 2026"
     },
     {
@@ -121,6 +271,46 @@
       "date": "22 Oct 2026"
     },
     {
+      "title": "Government Agencies Must Patch PHP Security Flaws Now – Ghanamma . com",
+      "description": "",
+      "source": "ghanamma.com",
+      "kind": "reporting",
+      "image": "",
+      "url": "https://www.ghanamma.com/2026/10/22/government-agencies-must-patch-php-security-flaws-now/",
+      "publishedAt": "2026-10-22T21:30:00.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "Millions of Exploit Attempts Logged Against PHP Servers",
+      "description": "",
+      "source": "bankinfosecurity.com",
+      "kind": "reporting",
+      "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/millions-exploit-attempts-logged-against-php-servers-image_large-9-a-33179.jpg",
+      "url": "https://www.bankinfosecurity.com/millions-exploit-attempts-logged-against-php-servers-a-33179",
+      "publishedAt": "2026-10-22T20:15:00.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "Cloudflare saw millions of php2shell attacks , and its new WAF defense is free for everyone",
+      "description": "",
+      "source": "makeuseof.com",
+      "kind": "reporting",
+      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/06/cloudflare-one-warp-powershell-windows-11.jpg?&fit=crop",
+      "url": "https://www.makeuseof.com/cloudflare-stopped-millions-of-php2shell-attacks-and-turned-on-a-new-free-waf-for-everyone/",
+      "publishedAt": "2026-10-22T19:45:00.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "What is a PHP vulnerability ? Security flaws prompt shutdowns of major websites amid global cybersecurity response",
+      "description": "",
+      "source": "economictimes.indiatimes.com",
+      "kind": "reporting",
+      "image": "https://img.etimg.com/thumb/msid-135122520,width-1200,height-900,imgsize-30424,overlay-economictimes/articleshow.jpg",
+      "url": "https://economictimes.indiatimes.com/world/us/what-is-a-php-vulnerability-security-flaws-prompt-shutdowns-of-major-websites-amid-global-cybersecurity-response/articleshow/135121423.cms",
+      "publishedAt": "2026-10-22T17:30:00.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
       "title": "PHP2Shell: Early Attack Activity Through Imperva’s Lens",
       "description": "Following the public disclosure of PHP2Shell (CVE-2026-109618 and CVE-2026-109619), Imperva Threat Research observed a sharp increase in scanning and exploitation attempts across protected e",
       "source": "Imperva",
@@ -131,6 +321,66 @@
       "date": "22 Oct 2026"
     },
     {
+      "title": "Hackers pile on PHP2Shell as AWS reveals attacks began before disclosure",
+      "description": "",
+      "source": "theregister.com",
+      "kind": "reporting",
+      "image": "https://image.theregister.com/5255785.jpg?imageId=5255785&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100",
+      "url": "https://www.theregister.com/cyber-crime/2026/10/22/hackers-pile-on-php2shell-as-aws-reveals-attacks-began-before-disclosure/5304749",
+      "publishedAt": "2026-10-22T16:15:00.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "Government agencies given 7 days to patch critical PHP flaws",
+      "description": "",
+      "source": "graphic.com.gh",
+      "kind": "reporting",
+      "image": "https://www.graphic.com.gh/images/2026/Oct/20/php.jpg",
+      "url": "https://www.graphic.com.gh/news/general-news/government-agencies-given-7-days-to-patch-critical-php-flaws.html",
+      "publishedAt": "2026-10-22T16:00:00.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "Websites across world hit by millions of attempts to exploit PHP code flaw",
+      "description": "",
+      "source": "thefrontierpost.com",
+      "kind": "reporting",
+      "image": "https://jetpack.com/redirect/?source=sigenerate&query=t%3DeyJpbWciOiJodHRwczpcL1wvdGhlZnJvbnRpZXJwb3N0LmNvbVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNlwvMTBcLzMwMDAuYXZpZiIsInR4dCI6IldlYnNpdGVzIGFjcm9zcyB3b3JsZCBoaXQgYnkgbWlsbGlvbnMgb2YgYXR0ZW1wdHMgdG8gZXhwbG9pdCBQSFAgY29kZSBmbGF3IiwidGVtcGxhdGUiOiJoaWdod2F5IiwiZm9udCI6IiIsImJsb2dfaWQiOjEzNzU4MjM0M30.6Yq6qPLY12TM8u66XgHrhAYyeOGLV5T0PrTIneIKBawMQ",
+      "url": "https://thefrontierpost.com/websites-across-world-hit-by-millions-of-attempts-to-exploit-php-code-flaw/",
+      "publishedAt": "2026-10-22T15:30:00.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "What the PHP coding flaw that could pull down 70 percent of the internet ? | Technology News",
+      "description": "",
+      "source": "aljazeera.com",
+      "kind": "reporting",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6ad9e17537-1792663925.jpg",
+      "url": "https://www.aljazeera.com/news/2026/10/22/whats-the-php-coding-flaw-that-could-pull-down-70-percent-of-the-internet",
+      "publishedAt": "2026-10-22T15:30:00.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "PHP vulnerability 2026 : Websites shut down globally as operators address AI - detected flaw in web programming language",
+      "description": "",
+      "source": "abc30.com",
+      "kind": "reporting",
+      "image": "https://cdn.abcotvs.com/dip/images/19968325_102226-wpvi-abcn-php-website-issues-pkg.jpg",
+      "url": "https://abc30.com/story/php-vulnerability-2026-websites-shut-down-globally-operators-address-ai-detected-flaw-web-programming-language/19968288/",
+      "publishedAt": "2026-10-22T15:00:00.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "PHP2Shell Exploitation Attempt Detected Four Days Before Disclosure",
+      "description": "",
+      "source": "infosecurity-magazine.com",
+      "kind": "reporting",
+      "image": "https://assets.infosecurity-magazine.com/webpage/og/a5c34397-4fd9-4ec8-9203-4c7fec91b2fa.jpg",
+      "url": "https://www.infosecurity-magazine.com/news/php2shell-exploitation-attempt/",
+      "publishedAt": "2026-10-22T15:00:00.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
       "title": "PHP2Shell Attacks Started Four Days Before Public Disclosure, AWS Reports",
       "description": "AWS detected PHP2Shell exploit attempts four days before disclosure, highlighting the risk of attackers exploiting critical flaws before patches arrive. Attackers attempted to exploit two cr",
       "source": "Security Affairs",
@@ -138,6 +388,46 @@
       "image": "",
       "url": "https://securityaffairs.com/201479/hacking/php2shell-attacks-started-four-days-before-public-disclosure-aws-reports.html",
       "publishedAt": "2026-10-22T14:55:01.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "PHP security flaw : Why websites across Europe went dark and what it means for you",
+      "description": "",
+      "source": "euronews.com",
+      "kind": "reporting",
+      "image": "https://images.euronews.com/articles/stories/09/96/32/16/1200x675_cmsv2_a13a802b-8010-5f41-99bb-64cac2b09c71-9963216.jpg",
+      "url": "https://www.euronews.com/2026/10/22/php-security-flaw-why-websites-across-europe-went-dark-and-what-it-means-for-you",
+      "publishedAt": "2026-10-22T14:45:00.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "Major PHP cybersecurity flaw hits united kingdom government sites and millions worldwide",
+      "description": "",
+      "source": "dailypost.co.uk",
+      "kind": "reporting",
+      "image": "",
+      "url": "https://www.dailypost.co.uk/news/north-wales-news/major-php-cybersecurity-flaw-hits-34802310",
+      "publishedAt": "2026-10-22T14:30:00.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "Daily roundup : Singapore firms urged to act urgently over critical PHP vulnerabilities and other top stories today",
+      "description": "",
+      "source": "asiaone.com",
+      "kind": "reporting",
+      "image": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Oct2026/PHP%20vulnerabilities%20-%20CSA%20Singapore%20advisory_0.jpg?itok=aawZJbNe",
+      "url": "https://www.asiaone.com/world/daily-roundup-singapore-firms-urged-act-urgently-over-critical-php-vulnerabilities",
+      "publishedAt": "2026-10-22T13:45:00.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "Singapore firms urged to act urgently over critical PHP vulnerabilities",
+      "description": "",
+      "source": "asiaone.com",
+      "kind": "reporting",
+      "image": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Oct2026/PHP%20vulnerabilities%20-%20CSA%20Singapore%20advisory.jpg?itok=rZ-T9MGb",
+      "url": "https://www.asiaone.com/singapore/php-vulnerability-singapore-cyber-security-advisory",
+      "publishedAt": "2026-10-22T13:45:00.000Z",
       "date": "22 Oct 2026"
     },
     {
@@ -161,6 +451,46 @@
       "date": "22 Oct 2026"
     },
     {
+      "title": "NHS Scotland website remains offline after critical PHP flaw found",
+      "description": "",
+      "source": "thenational.scot",
+      "kind": "reporting",
+      "image": "https://www.thenational.scot/resources/images/13898826.jpg?type=og-image",
+      "url": "https://www.thenational.scot/news/26659234.nhs-scotland-website-remains-offline-critical-php-flaw-found/",
+      "publishedAt": "2026-10-22T11:15:00.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "PHP Security Flaw : Which Indian Websites Are Affected ?",
+      "description": "",
+      "source": "freepressjournal.in",
+      "kind": "reporting",
+      "image": "https://media.assettype.com/freepressjournal/2026-10-22/jvvak9nl/Global-PHP-Outage-Alert.png",
+      "url": "https://www.freepressjournal.in/tech/php-security-flaw-which-indian-websites-are-affected",
+      "publishedAt": "2026-10-22T11:00:00.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "PHP security alert : Why CERT - In , FBI , Google and OpenAI are warning users and how to fix it",
+      "description": "",
+      "source": "digit.in",
+      "kind": "reporting",
+      "image": "https://static.digit.in/php-security-flaws.png",
+      "url": "https://www.digit.in/news/general/php-security-vulnerabilities-why-is-the-internet-panicked-and-what-govt-and-big-tech-companies-like-google-openai-and-others-said.html",
+      "publishedAt": "2026-10-22T10:30:00.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "Singapore organisations urged to patch critical PHP flaws immediately amid cyberattack threat",
+      "description": "",
+      "source": "channelnewsasia.com",
+      "kind": "reporting",
+      "image": "https://dam.mediacorp.sg/image/upload/s--tYn5roOr--/c_crop,h_449,w_799,x_1,y_2/c_fill,g_auto,h_338,w_600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-21T155055Z_3_LYNXMPEM9K1LD_RTROPTP_3_CYBERSECURITY-PHP.JPG?itok=xTGgFP70",
+      "url": "https://www.channelnewsasia.com/singapore/php-vulnerabilities-csa-singapore-firms-cybersecurity-6482006",
+      "publishedAt": "2026-10-22T10:30:00.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
       "title": "What the PHP2Shell vulnerability means for Fortinet, Cisco and Palo Alto customers",
       "description": "Palo Alto Networks confirmed that all versions of PAN-OS and Panorama are affected by PHP2Shell, a pair of critical PHP vulnerabilities that let an attacker run code on a web server without ",
       "source": "Help Net Security",
@@ -171,13 +501,13 @@
       "date": "22 Oct 2026"
     },
     {
-      "title": "PHP2Shell Exploitation Attempt Detected by Amazon Four Days Before Vulnerability Disclosure",
-      "description": "Threat intelligence analysts now observe large-scale evidence of exploitation of the two critical PHP vulnerabilities",
-      "source": "Infosecurity Magazine",
+      "title": "Global tech firms , govt agencies rush to contain critical PHP security flaws",
+      "description": "",
+      "source": "ianslive.in",
       "kind": "reporting",
-      "image": "",
-      "url": "https://www.infosecurity-magazine.com/news/php2shell-exploitation-attempt/",
-      "publishedAt": "2026-10-22T10:10:00.000Z",
+      "image": "https://d2lnbwhcsmj8tp.cloudfront.net/ianslive_watermark/202610223987377.jpg",
+      "url": "https://ianslive.in/global-tech-firms-govt-agencies-rush-to-contain-critical-php-security-flaws--20261022103429",
+      "publishedAt": "2026-10-22T07:00:00.000Z",
       "date": "22 Oct 2026"
     },
     {
@@ -191,13 +521,33 @@
       "date": "22 Oct 2026"
     },
     {
+      "title": "PHP Security Vulnerabilities Explained : Why Are Websites Being Taken Down Worldwide ?",
+      "description": "",
+      "source": "freepressjournal.in",
+      "kind": "reporting",
+      "image": "https://media.assettype.com/freepressjournal/2026-10-22/jvvak9nl/Global-PHP-Outage-Alert.png",
+      "url": "https://www.freepressjournal.in/tech/php-security-vulnerabilities-explained-why-are-websites-being-taken-down-worldwide",
+      "publishedAt": "2026-10-22T05:45:00.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "PHP security flaws explained : Affected versions , how to fix and more details",
+      "description": "",
+      "source": "digit.in",
+      "kind": "reporting",
+      "image": "https://static.digit.in/PHP-security-flaws-explained_-Affected-versions-how-to-fix-and-more-details.png",
+      "url": "https://www.digit.in/news/general/php-security-flaws-explained-affected-versions-how-to-fix-and-more-details.html",
+      "publishedAt": "2026-10-22T05:30:00.000Z",
+      "date": "22 Oct 2026"
+    },
+    {
       "title": "What is PHP , and how bad is the computer language flaw causing website shutdowns globally ?",
       "description": "",
-      "source": "aol.co.uk",
+      "source": "theguardian.com",
       "kind": "reporting",
-      "image": "https://hermes.media.static.aol.com/media/2026/10/22/172a0af9-0f42-3dcd-82a7-98ec83207992/e7be9bc7-5c56-43d5-8f13-f8f750d39121.jpg",
-      "url": "https://www.aol.co.uk/articles/php-bad-computer-language-flaw-042119000.html",
-      "publishedAt": "2026-10-22T05:00:00.000Z",
+      "image": "https://i.guim.co.uk/img/media/419629bdc65c3d09c62d22656230f0edccf0fb7e/1083_0_5417_4335/master/5417.jpg?&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ed87d89d44f232ef614d8ec7c201e460",
+      "url": "https://www.theguardian.com/technology/2026/oct/22/what-is-php-computer-language-flaw-causing-global-website-shutdowns",
+      "publishedAt": "2026-10-22T05:15:00.000Z",
       "date": "22 Oct 2026"
     },
     {
@@ -649,200 +999,10 @@
       "url": "https://www.thenews.com.pk/latest/1420771-critical-php-security-vulnerabilities-how-to-fix-them",
       "publishedAt": "2026-10-21T15:15:00.000Z",
       "date": "21 Oct 2026"
-    },
-    {
-      "title": "PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
-      "description": "",
-      "source": "IPA Japan",
-      "kind": "official",
-      "image": "",
-      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261022.html",
-      "publishedAt": "2026-10-21T15:00:00.000Z",
-      "date": "21 Oct 2026"
-    },
-    {
-      "title": "PHP Releases Emergency Fixes for Critical PHP2Shell Vulnerabilities",
-      "description": "PHP releases emergency PHP2Shell fixes for two critical flaws allowing unauthenticated code execution. Website owners and hosting providers…",
-      "source": "HackRead",
-      "kind": "reporting",
-      "image": "",
-      "url": "https://hackread.com/php-releases-emergency-fixe-php2shell-vulnerabilities/",
-      "publishedAt": "2026-10-21T14:52:33.000Z",
-      "date": "21 Oct 2026"
-    },
-    {
-      "title": "Two Critical PHP Vulnerabilities Threaten Millions Of Websites Worldwide , EU Warns Of Potential Shutdowns As Cyberattacks Begin",
-      "description": "",
-      "source": "wccftech.com",
-      "kind": "reporting",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/FI-7.jpg",
-      "url": "https://wccftech.com/two-critical-php-vulnerabilities-threaten-millions-of-websites-worldwide-eu-warns-of-potential-shutdowns-as-cyberattacks-begin/",
-      "publishedAt": "2026-10-21T14:15:00.000Z",
-      "date": "21 Oct 2026"
-    },
-    {
-      "title": "PHP ships emergency patches for critical PHP2Shell flaws",
-      "description": "The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell",
-      "source": "BleepingComputer",
-      "kind": "reporting",
-      "image": "",
-      "url": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
-      "publishedAt": "2026-10-21T14:07:05.000Z",
-      "date": "21 Oct 2026"
-    },
-    {
-      "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
-      "description": "PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8",
-      "source": "The Hacker News",
-      "kind": "reporting",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz8MKP95jyzesxy1eZd6zQDCb3dr-9m-bRE9W0PYnomN3z8lodXmM_0Oo4AAiP_nt2QMNpLxsUNPKueH4TW6FnvXl7ijDGDwxnXcfiyAII6sUDd8cfKoB7Z3MgLOvcAWDeplnUdixy-zfpgVqCuAVZmqH-Orn4S-QhYREVcY1ew7_6kIG8LBsdLZC8Ofs/s1600/PHP2SHELL.gif",
-      "url": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
-      "publishedAt": "2026-10-21T14:00:00.000Z",
-      "date": "21 Oct 2026"
-    },
-    {
-      "title": "Critical flaws strike PHP as disclosure embargo is broken",
-      "description": "",
-      "source": "itnews.com.au",
-      "kind": "reporting",
-      "image": "https://i.nextmedia.com.au/News/security%20bug%20infect%20malware.jpg",
-      "url": "https://www.itnews.com.au/news/critical-flaws-strike-php-as-disclosure-embargo-is-broken-629794",
-      "publishedAt": "2026-10-21T14:00:00.000Z",
-      "date": "21 Oct 2026"
-    },
-    {
-      "title": "Cloudflare deploys protections against php2shell vulnerability",
-      "description": "Cloudflare has deployed default web application firewall (WAF) protections for newly disclosed PHP vulnerabilities before public disclosure. The rules use request and response signals to sto",
-      "source": "Cloudflare",
-      "kind": "company",
-      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01KXQSMGN3Z955B45GCJR4REK3.png",
-      "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
-      "publishedAt": "2026-10-21T13:56:45.000Z",
-      "date": "21 Oct 2026"
-    },
-    {
-      "title": "USN-8948-1: PHP vulnerabilities",
-      "description": "It was discovered that PHP incorrectly handled out-of-memory conditions while processing requests. A remote attacker could use this issue to execute arbitrary code. (CVE-2026-109618) It was ",
-      "source": "Ubuntu Security",
-      "kind": "official",
-      "image": "",
-      "url": "https://ubuntu.com/security/notices/USN-8948-1",
-      "publishedAt": "2026-10-21T13:56:19.000Z",
-      "date": "21 Oct 2026"
-    },
-    {
-      "title": "PHP2Shell: Critical PHP vulnerabilities patched, update now!",
-      "description": "The PHP development team has released emergency security updates to fix PHP2Shell, two critical vulnerabilities (CVE-2026-109618 and CVE-2026-109619) that could let attackers execute code re",
-      "source": "Help Net Security",
-      "kind": "reporting",
-      "image": "",
-      "url": "https://www.helpnetsecurity.com/2026/10/21/php2shell-php-vulnerabilities-patched-cve-2026-109618-cve-2026-109619/",
-      "publishedAt": "2026-10-21T13:51:05.000Z",
-      "date": "21 Oct 2026"
-    },
-    {
-      "title": "PHP2Shell: When PHP Runs Out of Memory at the Wrong Moment",
-      "description": "A family of runtime memory safety vulnerabilities, with impacts ranging from worker crashes and data disclosure to pre-authentication remote code execution. Introduction Researchers from Wiz",
-      "source": "Imperva",
-      "kind": "company",
-      "image": "https://www.imperva.com/blog/wp-content/uploads/sites/9/2026/10/header.png",
-      "url": "https://www.imperva.com/blog/php2shell-vulnerability-updates/",
-      "publishedAt": "2026-10-21T13:47:21.000Z",
-      "date": "21 Oct 2026"
-    },
-    {
-      "title": "Critical security issue affecting PHP",
-      "description": "Updated: The NCSC is encouraging UK organisations to take immediate action to mitigate a security issue affecting PHP (CVE-2026-109618 and CVE-2026-109619).",
-      "source": "UK NCSC",
-      "kind": "official",
-      "image": "",
-      "url": "https://www.ncsc.gov.uk/news/critical-security-issue-affecting-php",
-      "publishedAt": "2026-10-21T12:00:00.000Z",
-      "date": "21 Oct 2026"
-    },
-    {
-      "title": "Critical Vulnerabilities in PHP Require Immediate Patching",
-      "description": "<p>CISA strongly urges organizations to immediately patch the recently disclosed critical vulnerabilities in PHP, <a href=\"https://www.cve.org/CVERecord?id=CVE-2026-109618\" target=\"_blank\">C",
-      "source": "CISA",
-      "kind": "official",
-      "image": "",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching",
-      "publishedAt": "2026-10-21T12:00:00.000Z",
-      "date": "21 Oct 2026"
-    },
-    {
-      "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
-      "description": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm tha",
-      "source": "The Hacker News",
-      "kind": "reporting",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipzsA5sBIvBsTGT1YIrSeK_4YH5ISqTd40ZG1tV8YN1VkjjZuiY6CfQojYR-TIoYKM0EgZM4fYrmdtD25XjeTtgBkTFCQGny4DLL0fTKT5SEFpOFBcxNjLgif_FrX-1d-IX9DE58tQX6ELzGk4cWNpUpU5Eaig8pqdLL2h6qqVCC95ZmHFN6m7tD6m7BY/s1600/php-rce-patch.jpg",
-      "url": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
-      "publishedAt": "2026-10-21T10:36:53.000Z",
-      "date": "21 Oct 2026"
-    },
-    {
-      "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
-      "description": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official ",
-      "source": "The Hacker News",
-      "kind": "reporting",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcxq1wmaSTaMiFJnrulXjwGrIIkIHBR3Q9Yv6Lky3rAie6XPOnFmXOVckMgVzGn9yvodrbkt6kV623Ofg8Iw-1MTDRoCVzXPiikivnZ5R7OynIF5-QC0DAiwXq8q2MRS3PZaz9NpjhJUqa-QWi1AQJ2XnJ-nvUNEvG3f1E0UpU5slUwzguAI-cESkZ5Xc/s1600/php2shell.jpg",
-      "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
-      "publishedAt": "2026-10-21T09:05:17.000Z",
-      "date": "21 Oct 2026"
-    },
-    {
-      "title": "php2shell (CVE-2026-109618, CVE-2026-109619): Frequently asked questions about critical PHP remote code execution vulnerabilities",
-      "description": "<p><strong>Two critical PHP vulnerabilities could lead to unauthenticated remote code execution. Patches are available for supported PHP 8.x branches, and exploitation attempts began before ",
-      "source": "Tenable",
-      "kind": "company",
-      "image": "",
-      "url": "https://www.tenable.com/blog/php2shell-cve-2026-109618-cve-2026-109619-frequently-asked-questions-about-critical-php-remote",
-      "publishedAt": "2026-10-21T09:01:24.000Z",
-      "date": "21 Oct 2026"
-    },
-    {
-      "title": "CrowdStrike Protects Customers from Threats Delivered via PHP2Shell",
-      "description": "",
-      "source": "CrowdStrike",
-      "kind": "company",
-      "image": "",
-      "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-protects-customers-from-php-rce-zero-days/",
-      "publishedAt": "2026-10-21T05:00:00.000Z",
-      "date": "21 Oct 2026"
-    },
-    {
-      "title": "PHP 8.5.12 Released!",
-      "description": "The PHP development team announces the immediate availability of PHP 8.5.12. This is a security release fixing two critical vulnerabilities (CVE-2026-109618, CVE-2026-109619) that can allow ",
-      "source": "PHP.net",
-      "kind": "official",
-      "image": "",
-      "url": "https://www.php.net/index.php#2026-10-21-4",
-      "publishedAt": "2026-10-21T00:24:52.000Z",
-      "date": "21 Oct 2026"
-    },
-    {
-      "title": "[Màj] Multiples vulnérabilités dans PHP (21 octobre 2026)",
-      "description": "**[Mise à jour du 22 octobre 2026]** Le CERT-FR a connaissance de preuves de concept pour les vulnérabilités CVE-2026-109618 et CVE-2026-109619 pour des déploiements spécifique de PHP. **[Mi",
-      "source": "CERT-FR",
-      "kind": "official",
-      "image": "",
-      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-014/",
-      "publishedAt": "2026-10-21T00:00:00.000Z",
-      "date": "21 Oct 2026"
-    },
-    {
-      "title": "PHP2Shell - Critical vulnerabilities in PHP (CVE-2026-109618, CVE-2026-109619): detection, analysis, and remediation",
-      "description": "Learn about the two critical vulnerabilities in PHP dubbed PHP2Shell.",
-      "source": "Datadog Security Labs",
-      "kind": "company",
-      "image": "",
-      "url": "https://securitylabs.datadoghq.com/articles/php2shell-critical-vulnerabilities-in-php/",
-      "publishedAt": "2026-10-21T00:00:00.000Z",
-      "date": "21 Oct 2026"
     }
   ],
-  "checkedAt": "2026-10-24T01:38:12.747Z",
+  "checkedAt": "2026-10-24T20:53:09.331Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
-  "searchMatches": 0
+  "searchMatches": 88
 }
