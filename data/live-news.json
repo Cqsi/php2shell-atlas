@@ -121,7 +121,7 @@
       "date": "23 Oct 2026"
     },
     {
-      "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 23)",
+      "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 25)",
       "description": "CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP, a scripting language used globally for web servers and CMS systems. The post Threat Brief: Critical Vulnerabilities i",
       "source": "Unit 42",
       "kind": "company",
@@ -1001,7 +1001,7 @@
       "date": "21 Oct 2026"
     }
   ],
-  "checkedAt": "2026-10-25T19:40:11.427Z",
+  "checkedAt": "2026-10-25T22:05:11.662Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
   "searchMatches": 0
