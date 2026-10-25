@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+      "description": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-",
+      "source": "The Hacker News",
+      "kind": "reporting",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzK2qokKedMIUzd876s0EWaLDb7qw-DMzlFWKvmfgCzMKZ2KVvdpZ-298SoEm1_PP6aoEBc6q1LAydnANGur1FbFNmXmhlo6zHtRFvgRcbx-LOoDoM_-JI-_7XkkM4r5q3LQH1SdfirarXTGeiu16d5YMDSeYs8tfJn5ITfRQ4DThbqkq66b4WdDQcOJqf/s1600/php2shell-exploit.jpg",
+      "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+      "publishedAt": "2026-10-25T17:19:46.000Z",
+      "date": "25 Oct 2026"
+    },
+    {
       "title": "Pierluigi Paganini answers questions about the PHP2Shell flaws",
       "description": "Pierluigi Paganini answers questions about the PHP2Shell vulnerability, early exploitation, AI-assisted attacks, and the risks to businesses, servers, and personal data. 1. Your latest repor",
       "source": "Security Affairs",
@@ -989,20 +999,10 @@
       "url": "https://securelist.com/tr/php2shell-critical-vulnerabilities-in-php/121596/",
       "publishedAt": "2026-10-21T15:18:04.000Z",
       "date": "21 Oct 2026"
-    },
-    {
-      "title": "Critical PHP security vulnerabilities : How to fix them",
-      "description": "",
-      "source": "thenews.com.pk",
-      "kind": "reporting",
-      "image": "https://www.thenews.com.pk/assets/uploads/2026-10-21/1420771_054108_updates.jpg",
-      "url": "https://www.thenews.com.pk/latest/1420771-critical-php-security-vulnerabilities-how-to-fix-them",
-      "publishedAt": "2026-10-21T15:15:00.000Z",
-      "date": "21 Oct 2026"
     }
   ],
-  "checkedAt": "2026-10-24T20:53:09.331Z",
+  "checkedAt": "2026-10-25T19:40:11.427Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
-  "searchMatches": 88
+  "searchMatches": 0
 }
