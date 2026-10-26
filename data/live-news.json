@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "PHP2Shell: Suspected North Korean campaign targets 216 vulnerable PHP hosts",
+      "description": "Cyfirma links PHP2Shell scans of 216 vulnerable hosts to a suspected North Korean campaign using AI to rank public exploits. On October 21, PHP released emergency patches for two critical vu",
+      "source": "Security Affairs",
+      "kind": "reporting",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/10/image-59.png?resize=832%2C262&#038;ssl=1",
+      "url": "https://securityaffairs.com/201748/hacking/php2shell-suspected-north-korean-campaign-targets-216-vulnerable-php-hosts.html",
+      "publishedAt": "2026-10-26T09:58:31.000Z",
+      "date": "26 Oct 2026"
+    },
+    {
+      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
+      "description": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
+      "source": "BleepingComputer",
+      "kind": "reporting",
+      "image": "",
+      "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+      "publishedAt": "2026-10-26T09:19:57.000Z",
+      "date": "26 Oct 2026"
+    },
+    {
       "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
       "description": "In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of t",
       "source": "The Hacker News",
@@ -979,29 +999,9 @@
       "url": "https://www.malwarebytes.com/blog/bugs/2026/10/php2shell-why-websites-are-going-offline-for-emergency-security-updates",
       "publishedAt": "2026-10-21T16:14:18.000Z",
       "date": "21 Oct 2026"
-    },
-    {
-      "title": "CVE-2026-109618 and CVE-2026-109619: Critical Unauthenticated Remote Code Execution in PHP",
-      "description": "OverviewOn October 21, 2026, the PHP project announced security releases for two critical vulnerabilities in PHP. CVE-2026-109618 can corrupt memory during out-of-memory (OOM) handling, whil",
-      "source": "Rapid7",
-      "kind": "company",
-      "image": "https://images.contentstack.io/v3/assets/blte4f029e766e6b253/blt65a432ba319f4043/6846abddaf18306debe6cf4d/ETR.webp",
-      "url": "https://www.rapid7.com/blog/post/etr-cve-2026-109618-and-cve-2026-109619-critical-unauthenticated-remote-code-execution-in-php",
-      "publishedAt": "2026-10-21T15:22:52.000Z",
-      "date": "21 Oct 2026"
-    },
-    {
-      "title": "Critical RCE vulnerabilities in PHP (CVE-2026-109618, CVE-2026-109619)",
-      "description": "We discuss the incident involving the leak of information about vulnerabilities CVE-2026-109618 and CVE-2026-109619. Kaspersky solutions detect the PHP2Shell exploit: we’ll walk you through ",
-      "source": "Kaspersky Securelist",
-      "kind": "company",
-      "image": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/10/21122913/php2shell-featured-image.jpg",
-      "url": "https://securelist.com/tr/php2shell-critical-vulnerabilities-in-php/121596/",
-      "publishedAt": "2026-10-21T15:18:04.000Z",
-      "date": "21 Oct 2026"
     }
   ],
-  "checkedAt": "2026-10-26T05:23:57.172Z",
+  "checkedAt": "2026-10-26T11:34:52.156Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
   "searchMatches": 0
