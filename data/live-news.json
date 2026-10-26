@@ -21,6 +21,16 @@
       "date": "26 Oct 2026"
     },
     {
+      "title": "Critical PHP flaws put cyber policy waiting periods and security conditions in focus",
+      "description": "",
+      "source": "insurancebusinessmag.com",
+      "kind": "reporting",
+      "image": "https://cdn-res.keymedia.com/cms/images/us/023/0382_639285866484865726.png",
+      "url": "https://www.insurancebusinessmag.com/us/news/cyber/critical-php-flaws-put-cyber-policy-waiting-periods-and-security-conditions-in-focus-594858.aspx",
+      "publishedAt": "2026-10-26T07:15:00.000Z",
+      "date": "26 Oct 2026"
+    },
+    {
       "title": "PHP Patches Two Critical Unauthenticated RCEs (CVE-2026-109618, CVE-2026-109619): [Updated for CVE-2026-115560]",
       "description": "Two critical flaws in PHP’s request lifecycle can enable unauthenticated remote code execution. Upgrade to a fixed release or install a vendor backport for older versions.",
       "source": "Snyk",
@@ -989,20 +999,10 @@
       "url": "https://www.techradar.com/pro/security/website-admins-across-the-world-bracing-for-impact-following-major-php-flaw-reveal",
       "publishedAt": "2026-10-21T16:15:00.000Z",
       "date": "21 Oct 2026"
-    },
-    {
-      "title": "PHP2Shell: Why many websites had to go offline",
-      "description": "Many sites were taken offline so admins could patch two critical PHP flaws that could have let attackers run malicious code on their servers.",
-      "source": "Malwarebytes",
-      "kind": "company",
-      "image": "",
-      "url": "https://www.malwarebytes.com/blog/bugs/2026/10/php2shell-why-websites-are-going-offline-for-emergency-security-updates",
-      "publishedAt": "2026-10-21T16:14:18.000Z",
-      "date": "21 Oct 2026"
     }
   ],
-  "checkedAt": "2026-10-26T17:40:16.631Z",
-  "feedsAvailable": 40,
+  "checkedAt": "2026-10-26T21:55:08.017Z",
+  "feedsAvailable": 41,
   "feedsTotal": 41,
-  "searchMatches": 0
+  "searchMatches": 89
 }
