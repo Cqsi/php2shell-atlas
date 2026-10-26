@@ -1,8 +1,8 @@
 {
   "items": [
     {
-      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
-      "description": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-",
+      "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
+      "description": "In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of t",
       "source": "The Hacker News",
       "kind": "reporting",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzK2qokKedMIUzd876s0EWaLDb7qw-DMzlFWKvmfgCzMKZ2KVvdpZ-298SoEm1_PP6aoEBc6q1LAydnANGur1FbFNmXmhlo6zHtRFvgRcbx-LOoDoM_-JI-_7XkkM4r5q3LQH1SdfirarXTGeiu16d5YMDSeYs8tfJn5ITfRQ4DThbqkq66b4WdDQcOJqf/s1600/php2shell-exploit.jpg",
@@ -1001,7 +1001,7 @@
       "date": "21 Oct 2026"
     }
   ],
-  "checkedAt": "2026-10-25T22:05:11.662Z",
+  "checkedAt": "2026-10-26T05:23:57.172Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
   "searchMatches": 0
