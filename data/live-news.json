@@ -21,6 +21,16 @@
       "date": "26 Oct 2026"
     },
     {
+      "title": "PHP Patches Two Critical Unauthenticated RCEs (CVE-2026-109618, CVE-2026-109619): [Updated for CVE-2026-115560]",
+      "description": "Two critical flaws in PHP’s request lifecycle can enable unauthenticated remote code execution. Upgrade to a fixed release or install a vendor backport for older versions.",
+      "source": "Snyk",
+      "kind": "company",
+      "image": "https://res.cloudinary.com/snyk/image/upload/v1690813497/illustration-hero-ai.png",
+      "url": "https://snyk.io/blog/php-patches-critical-unauthenticated-rces/",
+      "publishedAt": "2026-10-26T04:00:00.000Z",
+      "date": "26 Oct 2026"
+    },
+    {
       "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
       "description": "In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of t",
       "source": "The Hacker News",
@@ -611,16 +621,6 @@
       "date": "22 Oct 2026"
     },
     {
-      "title": "PHP Patches Two Critical Unauthenticated RCEs (CVE-2026-109618, CVE-2026-109619): Update Now",
-      "description": "Two critical flaws in PHP’s request lifecycle can enable unauthenticated remote code execution. Upgrade to a fixed release or install a vendor backport for older versions.",
-      "source": "Snyk",
-      "kind": "company",
-      "image": "https://res.cloudinary.com/snyk/image/upload/v1690813497/illustration-hero-ai.png",
-      "url": "https://snyk.io/blog/php-patches-critical-unauthenticated-rces/",
-      "publishedAt": "2026-10-22T04:00:00.000Z",
-      "date": "22 Oct 2026"
-    },
-    {
       "title": "Global alert over two critical PHP flaws forces government websites offline",
       "description": "",
       "source": "en.mercopress.com",
@@ -1001,8 +1001,8 @@
       "date": "21 Oct 2026"
     }
   ],
-  "checkedAt": "2026-10-26T11:34:52.156Z",
-  "feedsAvailable": 41,
+  "checkedAt": "2026-10-26T17:40:16.631Z",
+  "feedsAvailable": 40,
   "feedsTotal": 41,
   "searchMatches": 0
 }
