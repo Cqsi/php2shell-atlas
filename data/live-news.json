@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnera",
+      "source": "The Hacker News",
+      "kind": "reporting",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-vxKiggBxnuXu0fenkg0gfce0iuuA3OxeVzvWAdc0zaDPDayQgY8y_miqnvHJrpYvw61AhvGHEOW4EIKIYZ4QkRGjGEhqiU-3R0o6m0fgHJYDtszsoXyqse7WDGMh4rvEuTf1T-17KOVkyJKgEcaw5yBXFi6ElwIFyU9TjudvJrHz4fz6VNro8bjUZcnD/s1600/cisa-php.jpg",
+      "url": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
+      "publishedAt": "2026-10-27T04:37:59.000Z",
+      "date": "27 Oct 2026"
+    },
+    {
       "title": "Discover and remediate PHP2Shell exposure with Tenable",
       "description": "<p><em>Learn how to use Tenable solutions to find vulnerable PHP versions, prioritize remediation, and patch the critical PHP2Shell vulnerabilities (CVE-2026-109618 and CVE-2026-109619) fast",
       "source": "Tenable",
@@ -8,6 +18,26 @@
       "image": "",
       "url": "https://www.tenable.com/blog/discover-and-remediate-php2shell-exposure-with-tenable",
       "publishedAt": "2026-10-26T19:48:07.000Z",
+      "date": "26 Oct 2026"
+    },
+    {
+      "title": "更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
+      "description": "",
+      "source": "IPA Japan",
+      "kind": "official",
+      "image": "",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261022.html",
+      "publishedAt": "2026-10-26T15:00:00.000Z",
+      "date": "26 Oct 2026"
+    },
+    {
+      "title": "PHP2Shell: What to know about two critical PHP flaws",
+      "description": "Here's the lowdown on CVE-2026-109618 and CVE-2026-109619, as well as what website owners and IT teams should do to stay safe – all in a little more than two minutes",
+      "source": "ESET Research",
+      "kind": "company",
+      "image": "",
+      "url": "https://www.welivesecurity.com/en/videos/php2shell-what-know-two-critical-php-flaws/",
+      "publishedAt": "2026-10-26T13:25:00.000Z",
       "date": "26 Oct 2026"
     },
     {
@@ -969,39 +999,9 @@
       "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
       "publishedAt": "2026-10-21T16:30:00.000Z",
       "date": "21 Oct 2026"
-    },
-    {
-      "title": "Widespread PHP Flaw May Cause Many Site Outages Today – Krebs on Security",
-      "description": "",
-      "source": "krebsonsecurity.com",
-      "kind": "reporting",
-      "image": "",
-      "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
-      "publishedAt": "2026-10-21T16:30:00.000Z",
-      "date": "21 Oct 2026"
-    },
-    {
-      "title": "PHP devs publish critical bug fix as site owners warned : Pull em offline if youre unpatched",
-      "description": "",
-      "source": "theregister.com",
-      "kind": "reporting",
-      "image": "https://image.theregister.com/263315.jpg?imageId=263315&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100",
-      "url": "https://www.theregister.com/security/2026/10/21/php-devs-publish-critical-bug-fix-as-site-owners-warned-pull-em-offline-if-youre-unpatched/5304519",
-      "publishedAt": "2026-10-21T16:15:00.000Z",
-      "date": "21 Oct 2026"
-    },
-    {
-      "title": "This Is Not a Drill : Critical PHP Vulnerabilities Are Setting the Internet on Fire",
-      "description": "",
-      "source": "wired.com",
-      "kind": "reporting",
-      "image": "https://media.wired.com/photos/6ad8c3fad8fc6a7c8e751dc0/191:100/w_1280,c_limit/102126-PHP.jpg",
-      "url": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
-      "publishedAt": "2026-10-21T16:15:00.000Z",
-      "date": "21 Oct 2026"
     }
   ],
-  "checkedAt": "2026-10-27T01:30:02.694Z",
+  "checkedAt": "2026-10-27T06:51:38.592Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
   "searchMatches": 89
