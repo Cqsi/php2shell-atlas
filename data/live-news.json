@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "U.S. CISA adds PHP flaws PHP2Shell to its Known Exploited Vulnerabilities catalog",
+      "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds PHP flaws PHP2Shell to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agenc",
+      "source": "Security Affairs",
+      "kind": "reporting",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/10/image-59.png?resize=832%2C262&ssl=1",
+      "url": "https://securityaffairs.com/201840/security/u-s-cisa-adds-php-flaws-php2shell-to-its-known-exploited-vulnerabilities-catalog.html",
+      "publishedAt": "2026-10-27T10:39:41.000Z",
+      "date": "27 Oct 2026"
+    },
+    {
+      "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to p",
+      "source": "BleepingComputer",
+      "kind": "reporting",
+      "image": "",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
+      "publishedAt": "2026-10-27T08:20:54.000Z",
+      "date": "27 Oct 2026"
+    },
+    {
       "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
       "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnera",
       "source": "The Hacker News",
@@ -979,29 +999,9 @@
       "url": "https://thenextweb.com/news/php2shell-php-rce-ai-openai-wiz",
       "publishedAt": "2026-10-21T16:45:00.000Z",
       "date": "21 Oct 2026"
-    },
-    {
-      "title": "PHP2Shell : AI uncovers critical RCE vulnerabilities affecting 70 % of the Internet",
-      "description": "",
-      "source": "wiz.io",
-      "kind": "reporting",
-      "image": "https://www.datocms-assets.com/75231/1792534907-img_7274.png?fm=webp",
-      "url": "https://www.wiz.io/blog/php2shell-php-rce",
-      "publishedAt": "2026-10-21T16:30:00.000Z",
-      "date": "21 Oct 2026"
-    },
-    {
-      "title": "Today PHP Security Release , and How Were Strengthening PHP Security",
-      "description": "",
-      "source": "thephp.foundation",
-      "kind": "reporting",
-      "image": "",
-      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-      "publishedAt": "2026-10-21T16:30:00.000Z",
-      "date": "21 Oct 2026"
     }
   ],
-  "checkedAt": "2026-10-27T06:51:38.592Z",
+  "checkedAt": "2026-10-27T13:15:04.674Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
   "searchMatches": 89
