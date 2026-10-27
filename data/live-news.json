@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "CISA Confirms PHP2Shell Exploitation, Orders Federal Agencies to Patch",
+      "description": "The US Cybersecurity and Infrastructure Security Agency (CISA) added two critical PHP flaws, CVE-2026-109618 and CVE-2026-109619, to its…",
+      "source": "HackRead",
+      "kind": "reporting",
+      "image": "",
+      "url": "https://hackread.com/cisa-confirm-php2shell-exploit-federal-agencies-patch/",
+      "publishedAt": "2026-10-27T18:26:21.000Z",
+      "date": "27 Oct 2026"
+    },
+    {
+      "title": "PHP2Shell: Exploitation Attempts and Remediation Trends",
+      "description": "Wiz research has been monitoring PHP2Shell exploitation attempts, but none have succeeded so far. We examine the techniques used, what prevented the attacks from completing and how observed ",
+      "source": "Wiz",
+      "kind": "company",
+      "image": "https://www.datocms-assets.com/75231/1793110810-threat-update-pink-subtitle_custom-1.jpeg",
+      "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
+      "publishedAt": "2026-10-27T13:21:45.000Z",
+      "date": "27 Oct 2026"
+    },
+    {
       "title": "U.S. CISA adds PHP flaws PHP2Shell to its Known Exploited Vulnerabilities catalog",
       "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds PHP flaws PHP2Shell to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agenc",
       "source": "Security Affairs",
@@ -979,30 +999,10 @@
       "url": "https://www.dw.com/en/php-developers-say-key-patches-available-after-global-scare/a-79725938",
       "publishedAt": "2026-10-21T17:15:00.000Z",
       "date": "21 Oct 2026"
-    },
-    {
-      "title": "PSA: PHP Security Updates Available for Two Critical Vulnerabilities, Update Now",
-      "description": "The PHP project has released PHP 8.5.12, 8.4.27, 8.3.36, and 8.2.35 to fix two critical vulnerabilities, CVE-2026-109618 and CVE-2026-109619, that can allow unauthenticated remote code execu",
-      "source": "Wordfence",
-      "kind": "company",
-      "image": "https://www.wordfence.com/wp-content/uploads/2026/10/FeaturedImage_Wordfence_PHP_2.01-1024x534.png",
-      "url": "https://www.wordfence.com/blog/2026/10/psa-php-security-updates-available-for-two-critical-vulnerabilities-update-now/",
-      "publishedAt": "2026-10-21T16:49:35.000Z",
-      "date": "21 Oct 2026"
-    },
-    {
-      "title": "PHP rushes out emergency patches for two critical bugs AI found first",
-      "description": "",
-      "source": "thenextweb.com",
-      "kind": "reporting",
-      "image": "https://media.thenextweb.com/2026/10/php-elephant-plush-laptop-code.jpg",
-      "url": "https://thenextweb.com/news/php2shell-php-rce-ai-openai-wiz",
-      "publishedAt": "2026-10-21T16:45:00.000Z",
-      "date": "21 Oct 2026"
     }
   ],
-  "checkedAt": "2026-10-27T13:15:04.674Z",
+  "checkedAt": "2026-10-27T18:45:15.511Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
-  "searchMatches": 89
+  "searchMatches": 0
 }
