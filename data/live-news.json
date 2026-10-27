@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "title": "Discover and remediate PHP2Shell exposure with Tenable",
+      "description": "<p><em>Learn how to use Tenable solutions to find vulnerable PHP versions, prioritize remediation, and patch the critical PHP2Shell vulnerabilities (CVE-2026-109618 and CVE-2026-109619) fast",
+      "source": "Tenable",
+      "kind": "company",
+      "image": "",
+      "url": "https://www.tenable.com/blog/discover-and-remediate-php2shell-exposure-with-tenable",
+      "publishedAt": "2026-10-26T19:48:07.000Z",
+      "date": "26 Oct 2026"
+    },
+    {
       "title": "PHP2Shell: Suspected North Korean campaign targets 216 vulnerable PHP hosts",
       "description": "Cyfirma links PHP2Shell scans of 216 vulnerable hosts to a suspected North Korean campaign using AI to rank public exploits. On October 21, PHP released emergency patches for two critical vu",
       "source": "Security Affairs",
@@ -989,19 +999,9 @@
       "url": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
       "publishedAt": "2026-10-21T16:15:00.000Z",
       "date": "21 Oct 2026"
-    },
-    {
-      "title": "Website admins across the world bracing for impact following major PHP flaw reveal",
-      "description": "",
-      "source": "techradar.com",
-      "kind": "reporting",
-      "image": "https://cdn.mos.cms.futurecdn.net/pL5rBKGq88cnoqgdJgCXGS-2560-80.jpg",
-      "url": "https://www.techradar.com/pro/security/website-admins-across-the-world-bracing-for-impact-following-major-php-flaw-reveal",
-      "publishedAt": "2026-10-21T16:15:00.000Z",
-      "date": "21 Oct 2026"
     }
   ],
-  "checkedAt": "2026-10-26T21:55:08.017Z",
+  "checkedAt": "2026-10-27T01:30:02.694Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
   "searchMatches": 89
