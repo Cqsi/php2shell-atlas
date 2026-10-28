@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "PHP2Shell Update: Still No Confirmed WordPress Compromises, and Answers to the Questions We’re Hearing Most",
+      "description": "As of October 28, 2026, Wordfence knows of no WordPress site compromised through PHP2Shell. Update PHP to a fixed version and restart it, because updating WordPress does not update PHP. The ",
+      "source": "Wordfence",
+      "kind": "company",
+      "image": "https://www.wordfence.com/wp-content/uploads/2026/10/FeaturedImage_Wordfence_347.02.03-1024x534.png",
+      "url": "https://www.wordfence.com/blog/2026/10/php2shell-update-still-no-confirmed-wordpress-compromises-and-answers-to-the-questions-were-hearing-most/",
+      "publishedAt": "2026-10-28T18:26:07.000Z",
+      "date": "28 Oct 2026"
+    },
+    {
+      "title": "OffSec Launches Free PHP2Shell Lab Following Critical Vulnerability Discovery",
+      "description": "New York, United States, 28th October 2026, CyberNewswire",
+      "source": "HackRead",
+      "kind": "reporting",
+      "image": "",
+      "url": "https://hackread.com/offsec-launches-free-php2shell-lab-following-critical-vulnerability-discovery/",
+      "publishedAt": "2026-10-28T17:09:09.000Z",
+      "date": "28 Oct 2026"
+    },
+    {
+      "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
+      "description": "Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged",
+      "source": "The Hacker News",
+      "kind": "reporting",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl3PPkqzXf7YyMcnwdBu5XWlOwWtUonf15z0n79qMtIOVTb4LNfKdnl7tUK-45_2boP9r2ZKuHmX6e1BZLmo-LYF-rUwH8gtNrynFuaX4rlNh20UXPvtIfC85BcKcHXK1qei6uOJyImSjTfO537yljJve0Y_zMlfFfhBl0mKPfppWhkfojtGlYgxLjdSO0/s1600/php-united.jpg",
+      "url": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
+      "publishedAt": "2026-10-28T16:02:45.000Z",
+      "date": "28 Oct 2026"
+    },
+    {
       "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
       "description": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as \"PHP2Shell\" put the web management interfaces of firewalls, VPNs, application",
       "source": "BleepingComputer",
@@ -969,40 +999,10 @@
       "url": "https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry",
       "publishedAt": "2026-10-21T19:19:17.000Z",
       "date": "21 Oct 2026"
-    },
-    {
-      "title": "Critical PHP Patches Address Very , Very Bad Vulnerability",
-      "description": "",
-      "source": "govinfosecurity.com",
-      "kind": "reporting",
-      "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/critical-php-patches-address-very-very-bad-vulnerability-image_large-6-a-33162.jpg",
-      "url": "https://www.govinfosecurity.com/critical-php-patches-address-very-very-bad-vulnerability-a-33162",
-      "publishedAt": "2026-10-21T18:45:00.000Z",
-      "date": "21 Oct 2026"
-    },
-    {
-      "title": "PHP security issues : Websites go offline amid critical update",
-      "description": "",
-      "source": "thenationalnews.com",
-      "kind": "reporting",
-      "image": "https://www.thenationalnews.com/resizer/v2/S445IWNQ26BPWHZAMENGO3DIHQ.jpg?auth=69c1ca7cdebbc3a33275efa2303cafbf83af0f120013a41bdb89a24350d5b67f&smart=true",
-      "url": "https://www.thenationalnews.com/future/technology/2026/10/21/php-security-issues-exploit/",
-      "publishedAt": "2026-10-21T18:45:00.000Z",
-      "date": "21 Oct 2026"
-    },
-    {
-      "title": "PHP patches released for two critical RCEs",
-      "description": "",
-      "source": "lwn.net",
-      "kind": "reporting",
-      "image": "",
-      "url": "https://lwn.net/Articles/1102014/",
-      "publishedAt": "2026-10-21T18:30:00.000Z",
-      "date": "21 Oct 2026"
     }
   ],
-  "checkedAt": "2026-10-28T14:32:39.441Z",
-  "feedsAvailable": 40,
+  "checkedAt": "2026-10-28T19:55:17.230Z",
+  "feedsAvailable": 41,
   "feedsTotal": 41,
   "searchMatches": 0
 }
