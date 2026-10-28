@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
+      "description": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as \"PHP2Shell\" put the web management interfaces of firewalls, VPNs, application",
+      "source": "BleepingComputer",
+      "kind": "reporting",
+      "image": "",
+      "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
+      "publishedAt": "2026-10-28T14:00:00.000Z",
+      "date": "28 Oct 2026"
+    },
+    {
+      "title": "Even after PHP2Shell, blast radius matters more than a CVSS score",
+      "description": "PHP2Shell shows how quickly attackers can exploit critical vulnerabilities, often before organizations have time to patch. Token Security explains why limiting the access of service accounts",
+      "source": "BleepingComputer",
+      "kind": "reporting",
+      "image": "",
+      "url": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/",
+      "publishedAt": "2026-10-28T13:50:59.000Z",
+      "date": "28 Oct 2026"
+    },
+    {
       "title": "CISA Confirms PHP2Shell Exploitation, Orders Federal Agencies to Patch",
       "description": "The US Cybersecurity and Infrastructure Security Agency (CISA) added two critical PHP flaws, CVE-2026-109618 and CVE-2026-109619, to its…",
       "source": "HackRead",
@@ -979,30 +999,10 @@
       "url": "https://lwn.net/Articles/1102014/",
       "publishedAt": "2026-10-21T18:30:00.000Z",
       "date": "21 Oct 2026"
-    },
-    {
-      "title": "Multiple websites go offline after critical PHP security flaw ; FBI urges immediate updates . Here what you should do",
-      "description": "",
-      "source": "economictimes.indiatimes.com",
-      "kind": "reporting",
-      "image": "https://img.etimg.com/thumb/msid-135097606,width-1200,height-900,imgsize-93920,overlay-economictimes/articleshow.jpg",
-      "url": "https://economictimes.indiatimes.com/news/international/business/multiple-websites-go-offline-after-critical-php-security-flaw-fbi-urges-immediate-updates-heres-what-you-should-do/articleshow/135097559.cms",
-      "publishedAt": "2026-10-21T18:00:00.000Z",
-      "date": "21 Oct 2026"
-    },
-    {
-      "title": "PHP developers say key patches available after global scare",
-      "description": "",
-      "source": "dw.com",
-      "kind": "reporting",
-      "image": "https://static.dw.com/image/70077444_6.jpg",
-      "url": "https://www.dw.com/en/php-developers-say-key-patches-available-after-global-scare/a-79725938",
-      "publishedAt": "2026-10-21T17:15:00.000Z",
-      "date": "21 Oct 2026"
     }
   ],
-  "checkedAt": "2026-10-27T18:45:15.511Z",
-  "feedsAvailable": 41,
+  "checkedAt": "2026-10-28T14:32:39.441Z",
+  "feedsAvailable": 40,
   "feedsTotal": 41,
   "searchMatches": 0
 }
