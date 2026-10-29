@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
+      "description": "Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces. \"Active exploitatio",
+      "source": "The Hacker News",
+      "kind": "reporting",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9wRucatO6j8IYS9drMJNn_BtgvNwY739pg33a6-50h33cCXnqi4unW5RppMfzO6TLjMdDQ-XICWN6uKTU6ai_SyLBeD8k4SdO7Kx2-QJeMbz0LSEMZkuKZls2dMSNoJmkY5nSc2SOduiSkVpKY9uFjCG0gU73hMvSyyqMANymiqb012-Z_rVUUUJtQQ5C/s1600/php-palo.jpg",
+      "url": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
+      "publishedAt": "2026-10-29T05:50:17.000Z",
+      "date": "29 Oct 2026"
+    },
+    {
       "title": "PHP2Shell Update: Still No Confirmed WordPress Compromises, and Answers to the Questions We’re Hearing Most",
       "description": "As of October 28, 2026, Wordfence knows of no WordPress site compromised through PHP2Shell. Update PHP to a fixed version and restart it, because updating WordPress does not update PHP. The ",
       "source": "Wordfence",
@@ -989,19 +999,9 @@
       "url": "https://mashable.com/tech/openai-takes-credit-for-finding-php-flaws",
       "publishedAt": "2026-10-21T20:30:00.000Z",
       "date": "21 Oct 2026"
-    },
-    {
-      "title": "Stopping PHP2SHELL: How SentinelOne Protects Customers From This Attack Technique",
-      "description": "Stop PHP2Shell with SentinelOne. Learn how Singularity Agent stops web worker post-exploitation, kills process trees, and hunts threats.",
-      "source": "SentinelOne",
-      "kind": "company",
-      "image": "https://images.contentstack.io/v3/assets/blt53c99b43892c2378/blt64fd9825f4d7eed3/6a836cb42f00b28518f06d6c/threat_intel_banner.jpg",
-      "url": "https://www.sentinelone.com/blog/stopping-php2shell-how-sentinelone-protects-customers-from-this-attack-technique/",
-      "publishedAt": "2026-10-21T19:21:11.000Z",
-      "date": "21 Oct 2026"
     }
   ],
-  "checkedAt": "2026-10-29T00:01:46.536Z",
+  "checkedAt": "2026-10-29T13:07:58.539Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
   "searchMatches": 0
