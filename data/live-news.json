@@ -51,6 +51,16 @@
       "date": "28 Oct 2026"
     },
     {
+      "title": "PHP2Shell Won't Be the Last. Here's Where the Next One Will Show Up First.",
+      "description": "PHP2Shell showed how quickly an engine-level flaw can put internet-facing applications at risk. Learn why outside-in inventory, rapid testing, and repeat checks matter before the next disclo",
+      "source": "Snyk",
+      "kind": "company",
+      "image": "https://res.cloudinary.com/snyk/image/upload/v1689708916/blog-feature-ai-pink.jpg",
+      "url": "https://snyk.io/blog/php2shell-where-next-one-will-show-up-first/",
+      "publishedAt": "2026-10-28T04:00:00.000Z",
+      "date": "28 Oct 2026"
+    },
+    {
       "title": "CISA Confirms PHP2Shell Exploitation, Orders Federal Agencies to Patch",
       "description": "The US Cybersecurity and Infrastructure Security Agency (CISA) added two critical PHP flaws, CVE-2026-109618 and CVE-2026-109619, to its…",
       "source": "HackRead",
@@ -989,19 +999,9 @@
       "url": "https://www.sentinelone.com/blog/stopping-php2shell-how-sentinelone-protects-customers-from-this-attack-technique/",
       "publishedAt": "2026-10-21T19:21:11.000Z",
       "date": "21 Oct 2026"
-    },
-    {
-      "title": "'PHP2Shell' Bugs Signal Red Alert for Security Industry",
-      "description": "Security teams are scrambling to remediate two critical PHP vulnerabilities following leaked details and reports of exploitation attempts.",
-      "source": "Dark Reading",
-      "kind": "reporting",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt67e9fa778860769f/6ad8fdb74b1e4143168658d7/warning_sign_with_siren-DSGpro-GettyImages-184878150.jpg?width=720&quality=80&disable=upscale",
-      "url": "https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry",
-      "publishedAt": "2026-10-21T19:19:17.000Z",
-      "date": "21 Oct 2026"
     }
   ],
-  "checkedAt": "2026-10-28T19:55:17.230Z",
+  "checkedAt": "2026-10-29T00:01:46.536Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
   "searchMatches": 0
