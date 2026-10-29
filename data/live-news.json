@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29)",
+      "description": "CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP, a scripting language used globally for web servers and CMS systems. The post Threat Brief: Critical Vulnerabilities i",
+      "source": "Unit 42",
+      "kind": "company",
+      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/10/03_Vulnerabilities_1920x900.jpg",
+      "url": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
+      "publishedAt": "2026-10-29T18:00:34.000Z",
+      "date": "29 Oct 2026"
+    },
+    {
+      "title": "Chinese hackers used VMware ESX zero-day; PHP2Shell and Fragnesia chained to root firewalls",
+      "description": "China-nexus threat actors have exploited a VMware ESX zero-day to hide their tracks and chained PHP2Shell flaws with the “Fragnesia” Linux kernel bug to root servers and firewalls, cybersecu",
+      "source": "Help Net Security",
+      "kind": "reporting",
+      "image": "",
+      "url": "https://www.helpnetsecurity.com/2026/10/29/php2shell-fragnesia-vmware-esx-zero-day/",
+      "publishedAt": "2026-10-29T16:25:10.000Z",
+      "date": "29 Oct 2026"
+    },
+    {
+      "title": "CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies to patch a high-severity Linux kernel privilege escalation bug that attackers are chaining with the P",
+      "source": "BleepingComputer",
+      "kind": "reporting",
+      "image": "",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/",
+      "publishedAt": "2026-10-29T13:59:48.000Z",
+      "date": "29 Oct 2026"
+    },
+    {
       "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
       "description": "Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces. \"Active exploitatio",
       "source": "The Hacker News",
@@ -308,16 +338,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte307a3bd1a7bcb35/6adb9c8d2d5b887cc408cb52/Globe_bandages-zennie-Getty.jpg?width=720&quality=80&disable=upscale",
       "url": "https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice",
       "publishedAt": "2026-10-23T19:41:23.000Z",
-      "date": "23 Oct 2026"
-    },
-    {
-      "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 25)",
-      "description": "CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP, a scripting language used globally for web servers and CMS systems. The post Threat Brief: Critical Vulnerabilities i",
-      "source": "Unit 42",
-      "kind": "company",
-      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/10/03_Vulnerabilities_1920x900.jpg",
-      "url": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
-      "publishedAt": "2026-10-23T19:00:34.000Z",
       "date": "23 Oct 2026"
     },
     {
@@ -979,30 +999,10 @@
       "url": "https://isc.sans.edu/diary/rss/33440",
       "publishedAt": "2026-10-21T21:02:43.000Z",
       "date": "21 Oct 2026"
-    },
-    {
-      "title": "Critical PHP flaws put millions of websites at risk as governments pull sites offline",
-      "description": "",
-      "source": "weartv.com",
-      "kind": "reporting",
-      "image": "https://weartv.com/resources/media2/16x9/3000/1320/0x40/90/007c728b-9ea2-4109-848b-4b1929c914d2-GettyImages73534290.jpg",
-      "url": "https://weartv.com/news/nation-world/critical-php-flaws-put-millions-of-websites-at-risk-as-governments-pull-sites-offline",
-      "publishedAt": "2026-10-21T20:45:00.000Z",
-      "date": "21 Oct 2026"
-    },
-    {
-      "title": "OpenAI helped find the PHP flaws now shaking the internet",
-      "description": "",
-      "source": "mashable.com",
-      "kind": "reporting",
-      "image": "https://helios-i.mashable.com/imagery/articles/02OlLM0Zq6G5sgZMQmeHA9n/hero-image.fill.size_1200x675.v1792604895.jpg",
-      "url": "https://mashable.com/tech/openai-takes-credit-for-finding-php-flaws",
-      "publishedAt": "2026-10-21T20:30:00.000Z",
-      "date": "21 Oct 2026"
     }
   ],
-  "checkedAt": "2026-10-29T13:07:58.539Z",
-  "feedsAvailable": 41,
+  "checkedAt": "2026-10-29T18:59:04.849Z",
+  "feedsAvailable": 40,
   "feedsTotal": 41,
-  "searchMatches": 0
+  "searchMatches": 20
 }
