@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "title": "Limited reports of PHP bug exploitation emerge",
+      "description": "One cyber firm listed a half-dozen exploitations of the PHP2Shell bugs, and another identified a well targeted, suspected Chinese campaign that breached U.S. \"government affiliated\" servers.",
+      "source": "The Record",
+      "kind": "reporting",
+      "image": "",
+      "url": "https://therecord.media/php2shell-successful-exploitation-reports-emerge",
+      "publishedAt": "2026-10-29T20:01:25.000Z",
+      "date": "29 Oct 2026"
+    },
+    {
       "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29)",
       "description": "CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP, a scripting language used globally for web servers and CMS systems. The post Threat Brief: Critical Vulnerabilities i",
       "source": "Unit 42",
@@ -912,7 +922,7 @@
     },
     {
       "title": "Using AWS WAF to apply mitigations for PHP2Shell RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619)",
-      "description": "October 23, 2026-2: The PHP project disclosed CVE-2026-115560, a separate remote code execution issue that the October 21 releases don’t fix. It affects only applications with an uncommon co",
+      "description": "October 29, 2026: We added guidance for end-of-life PHP versions (8.1 and earlier), including the source backports that the PHP security team published for PHP 7.4, 8.0, and 8.1. October 23,",
       "source": "AWS Security",
       "kind": "company",
       "image": "",
@@ -989,20 +999,10 @@
       "url": "https://fortune.com/2026/10/21/ai-tools-discovered-the-php-vulnerability-that-could-take-down-70-of-the-internet-now-the-race-is-on-to-patch-it-before-ai-powered-hackers-attack/",
       "publishedAt": "2026-10-21T21:15:00.000Z",
       "date": "21 Oct 2026"
-    },
-    {
-      "title": "Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) [infocon yellow], (Wed, Oct 21st)",
-      "description": "PHP.net announced that it will release a critical update today. We decided to change the infoCon to YELLOW due to the widespread use of PHP, the expected severity of the flaw (CVSS 9.4), and",
-      "source": "SANS ISC",
-      "kind": "research",
-      "image": "",
-      "url": "https://isc.sans.edu/diary/rss/33440",
-      "publishedAt": "2026-10-21T21:02:43.000Z",
-      "date": "21 Oct 2026"
     }
   ],
-  "checkedAt": "2026-10-29T18:59:04.849Z",
-  "feedsAvailable": 40,
+  "checkedAt": "2026-10-29T23:19:06.535Z",
+  "feedsAvailable": 41,
   "feedsTotal": 41,
-  "searchMatches": 20
+  "searchMatches": 0
 }
