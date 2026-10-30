@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "title": "php2shell one week later: Why one exploit doesn’t work everywhere",
+      "description": "<p><strong>php2shell raised fears of mass exploitation. A week of testing by our research team found that working exploits had to be fitted to each target’s exact PHP setup. Systems that sha",
+      "source": "Tenable",
+      "kind": "company",
+      "image": "",
+      "url": "https://www.tenable.com/blog/php2shell-one-week-later-why-one-exploit-doesnt-work-everywhere",
+      "publishedAt": "2026-10-30T01:42:06.000Z",
+      "date": "30 Oct 2026"
+    },
+    {
       "title": "Limited reports of PHP bug exploitation emerge",
       "description": "One cyber firm listed a half-dozen exploitations of the PHP2Shell bugs, and another identified a well targeted, suspected Chinese campaign that breached U.S. \"government affiliated\" servers.",
       "source": "The Record",
@@ -989,20 +999,10 @@
       "url": "https://siliconangle.com/2026/10/21/critical-php-vulnerabilities-send-organizations-scrambling-to-secure-their-systems/",
       "publishedAt": "2026-10-21T21:30:00.000Z",
       "date": "21 Oct 2026"
-    },
-    {
-      "title": "AI helped discover the PHP vulnerability that could take down 70 % of the internet",
-      "description": "",
-      "source": "fortune.com",
-      "kind": "reporting",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2277432403-e1792606578963.jpg",
-      "url": "https://fortune.com/2026/10/21/ai-tools-discovered-the-php-vulnerability-that-could-take-down-70-of-the-internet-now-the-race-is-on-to-patch-it-before-ai-powered-hackers-attack/",
-      "publishedAt": "2026-10-21T21:15:00.000Z",
-      "date": "21 Oct 2026"
     }
   ],
-  "checkedAt": "2026-10-29T23:19:06.535Z",
+  "checkedAt": "2026-10-30T03:00:07.833Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
-  "searchMatches": 0
+  "searchMatches": 16
 }
