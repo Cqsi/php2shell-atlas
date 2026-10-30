@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "title": "The Good, the Bad and the Ugly in Cybersecurity - Week 44 (2026)",
+      "description": "PHP2SHELL’s complexity stalls mass exploitation, attackers chain it with Fragnesia to root firewalls, and a silent Brotli fix leaves Node2Shell exposed.",
+      "source": "SentinelOne",
+      "kind": "company",
+      "image": "https://images.contentstack.io/v3/assets/blt53c99b43892c2378/blt4f4cff1c329a76ed/6ae43a14aaf3517a5b2d99b5/GBU_week44_2026.jpg",
+      "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-44-8",
+      "publishedAt": "2026-10-30T17:29:33.000Z",
+      "date": "30 Oct 2026"
+    },
+    {
       "title": "Chinese Actor Compromises US Government Network Via Chained PHP2Shell Exploit",
       "description": "Dream found that a suspected Chinese-nexus actor gained root access to Palo Alto Network firewall servers to target government organizations",
       "source": "Infosecurity Magazine",
@@ -989,20 +999,10 @@
       "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
       "publishedAt": "2026-10-21T22:36:26.000Z",
       "date": "21 Oct 2026"
-    },
-    {
-      "title": "Türkiye launches nationwide cyber alert over critical PHP flaws",
-      "description": "",
-      "source": "dailysabah.com",
-      "kind": "reporting",
-      "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/10/21/thumbs/1200x675/466899.jpg",
-      "url": "https://www.dailysabah.com/business/tech/turkiye-launches-nationwide-cyber-alert-over-critical-php-flaws",
-      "publishedAt": "2026-10-21T22:15:00.000Z",
-      "date": "21 Oct 2026"
     }
   ],
-  "checkedAt": "2026-10-30T16:43:18.299Z",
-  "feedsAvailable": 40,
+  "checkedAt": "2026-10-30T21:07:20.936Z",
+  "feedsAvailable": 41,
   "feedsTotal": 41,
-  "searchMatches": 0
+  "searchMatches": 11
 }
