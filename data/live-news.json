@@ -11,6 +11,16 @@
       "date": "30 Oct 2026"
     },
     {
+      "title": "This month in security with Tony Anscombe – October 2026 edition",
+      "description": "The PHP2Shell disclosure and other major cybersecurity news this month brought into relief the need for well-thought-out cyber-readiness plans",
+      "source": "ESET Research",
+      "kind": "company",
+      "image": "",
+      "url": "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-october-2026/",
+      "publishedAt": "2026-10-30T15:03:14.000Z",
+      "date": "30 Oct 2026"
+    },
+    {
       "title": "Chinese Actor Compromises US Government Network Via Chained PHP2Shell Exploit",
       "description": "Dream found that a suspected Chinese-nexus actor gained root access to Palo Alto Network firewall servers to target government organizations",
       "source": "Infosecurity Magazine",
@@ -989,20 +999,10 @@
       "url": "https://kenya-today.com/report-japanese-pm-us-agencies-urge-global-websites-to-patch-critical-php-flaws-or-go-offline-14768/",
       "publishedAt": "2026-10-21T22:45:00.000Z",
       "date": "21 Oct 2026"
-    },
-    {
-      "title": "Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot",
-      "description": "Amazon Threat Intelligence identified a PHP2Shell exploitation attempt dating to Oct. 17, 2026, in MadPot telemetry, four days before public disclosure of CVE-2026-109618 and CVE-2026-109619",
-      "source": "AWS Security",
-      "kind": "company",
-      "image": "",
-      "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
-      "publishedAt": "2026-10-21T22:36:26.000Z",
-      "date": "21 Oct 2026"
     }
   ],
-  "checkedAt": "2026-10-30T21:07:20.936Z",
+  "checkedAt": "2026-10-31T13:41:03.440Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
-  "searchMatches": 11
+  "searchMatches": 0
 }
