@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "title": "更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
+      "description": "",
+      "source": "IPA Japan",
+      "kind": "official",
+      "image": "",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261022.html",
+      "publishedAt": "2026-11-01T15:00:00.000Z",
+      "date": "1 Nov 2026"
+    },
+    {
       "title": "The Good, the Bad and the Ugly in Cybersecurity - Week 44 (2026)",
       "description": "PHP2SHELL’s complexity stalls mass exploitation, attackers chain it with Fragnesia to root firewalls, and a silent Brotli fix leaves Node2Shell exposed.",
       "source": "SentinelOne",
@@ -208,16 +218,6 @@
       "image": "",
       "url": "https://www.tenable.com/blog/discover-and-remediate-php2shell-exposure-with-tenable",
       "publishedAt": "2026-10-26T19:48:07.000Z",
-      "date": "26 Oct 2026"
-    },
-    {
-      "title": "更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
-      "description": "",
-      "source": "IPA Japan",
-      "kind": "official",
-      "image": "",
-      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261022.html",
-      "publishedAt": "2026-10-26T15:00:00.000Z",
       "date": "26 Oct 2026"
     },
     {
@@ -1001,8 +1001,8 @@
       "date": "21 Oct 2026"
     }
   ],
-  "checkedAt": "2026-10-31T13:41:03.440Z",
-  "feedsAvailable": 41,
+  "checkedAt": "2026-11-02T02:34:11.908Z",
+  "feedsAvailable": 40,
   "feedsTotal": 41,
   "searchMatches": 0
 }
