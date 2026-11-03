@@ -16,7 +16,7 @@
       "source": "SentinelOne",
       "kind": "company",
       "image": "https://images.contentstack.io/v3/assets/blt53c99b43892c2378/blt4f4cff1c329a76ed/6ae43a14aaf3517a5b2d99b5/GBU_week44_2026.jpg",
-      "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-44-8",
+      "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-44-8/",
       "publishedAt": "2026-10-30T17:29:33.000Z",
       "date": "30 Oct 2026"
     },
@@ -1001,8 +1001,8 @@
       "date": "21 Oct 2026"
     }
   ],
-  "checkedAt": "2026-11-02T02:34:11.908Z",
-  "feedsAvailable": 40,
+  "checkedAt": "2026-11-03T23:26:44.574Z",
+  "feedsAvailable": 41,
   "feedsTotal": 41,
   "searchMatches": 0
 }
