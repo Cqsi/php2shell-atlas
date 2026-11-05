@@ -539,79 +539,9 @@
       "url": "https://www.tenable.com/blog/php2shell-vulnerability-threat-actor-response",
       "publishedAt": "2026-10-22T22:04:00.000Z",
       "date": "22 Oct 2026"
-    },
-    {
-      "title": "Government Agencies Must Patch PHP Security Flaws Now – Ghanamma . com",
-      "description": "",
-      "source": "ghanamma.com",
-      "kind": "reporting",
-      "image": "",
-      "url": "https://www.ghanamma.com/2026/10/22/government-agencies-must-patch-php-security-flaws-now/",
-      "publishedAt": "2026-10-22T21:30:00.000Z",
-      "date": "22 Oct 2026"
-    },
-    {
-      "title": "Millions of Exploit Attempts Logged Against PHP Servers",
-      "description": "",
-      "source": "bankinfosecurity.com",
-      "kind": "reporting",
-      "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/millions-exploit-attempts-logged-against-php-servers-image_large-9-a-33179.jpg",
-      "url": "https://www.bankinfosecurity.com/millions-exploit-attempts-logged-against-php-servers-a-33179",
-      "publishedAt": "2026-10-22T20:15:00.000Z",
-      "date": "22 Oct 2026"
-    },
-    {
-      "title": "Cloudflare saw millions of php2shell attacks , and its new WAF defense is free for everyone",
-      "description": "",
-      "source": "makeuseof.com",
-      "kind": "reporting",
-      "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/06/cloudflare-one-warp-powershell-windows-11.jpg?&fit=crop",
-      "url": "https://www.makeuseof.com/cloudflare-stopped-millions-of-php2shell-attacks-and-turned-on-a-new-free-waf-for-everyone/",
-      "publishedAt": "2026-10-22T19:45:00.000Z",
-      "date": "22 Oct 2026"
-    },
-    {
-      "title": "What is a PHP vulnerability ? Security flaws prompt shutdowns of major websites amid global cybersecurity response",
-      "description": "",
-      "source": "economictimes.indiatimes.com",
-      "kind": "reporting",
-      "image": "https://img.etimg.com/thumb/msid-135122520,width-1200,height-900,imgsize-30424,overlay-economictimes/articleshow.jpg",
-      "url": "https://economictimes.indiatimes.com/world/us/what-is-a-php-vulnerability-security-flaws-prompt-shutdowns-of-major-websites-amid-global-cybersecurity-response/articleshow/135121423.cms",
-      "publishedAt": "2026-10-22T17:30:00.000Z",
-      "date": "22 Oct 2026"
-    },
-    {
-      "title": "PHP2Shell: Early Attack Activity Through Imperva’s Lens",
-      "description": "Following the public disclosure of PHP2Shell (CVE-2026-109618 and CVE-2026-109619), Imperva Threat Research observed a sharp increase in scanning and exploitation attempts across protected e",
-      "source": "Imperva",
-      "kind": "company",
-      "image": "https://www.imperva.com/blog/wp-content/uploads/sites/9/2026/10/imperva_shield.png",
-      "url": "https://www.imperva.com/blog/php2shell-early-attack-activity-through-impervas-lens/",
-      "publishedAt": "2026-10-22T16:30:48.000Z",
-      "date": "22 Oct 2026"
-    },
-    {
-      "title": "Hackers pile on PHP2Shell as AWS reveals attacks began before disclosure",
-      "description": "",
-      "source": "theregister.com",
-      "kind": "reporting",
-      "image": "https://image.theregister.com/5255785.jpg?imageId=5255785&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100",
-      "url": "https://www.theregister.com/cyber-crime/2026/10/22/hackers-pile-on-php2shell-as-aws-reveals-attacks-began-before-disclosure/5304749",
-      "publishedAt": "2026-10-22T16:15:00.000Z",
-      "date": "22 Oct 2026"
-    },
-    {
-      "title": "Government agencies given 7 days to patch critical PHP flaws",
-      "description": "",
-      "source": "graphic.com.gh",
-      "kind": "reporting",
-      "image": "https://www.graphic.com.gh/images/2026/Oct/20/php.jpg",
-      "url": "https://www.graphic.com.gh/news/general-news/government-agencies-given-7-days-to-patch-critical-php-flaws.html",
-      "publishedAt": "2026-10-22T16:00:00.000Z",
-      "date": "22 Oct 2026"
     }
   ],
-  "checkedAt": "2026-11-05T15:50:09.459Z",
+  "checkedAt": "2026-11-05T22:02:07.669Z",
   "feedsAvailable": 40,
   "feedsTotal": 41,
   "searchMatches": 0
