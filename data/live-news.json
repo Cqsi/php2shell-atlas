@@ -969,40 +969,10 @@
       "url": "https://aws.amazon.com/blogs/security/using-aws-waf-to-apply-mitigations-for-php2shell-rce-vulnerabilities-cve-2026-109618-and-cve-2026-109619/",
       "publishedAt": "2026-10-22T00:50:04.000Z",
       "date": "22 Oct 2026"
-    },
-    {
-      "title": "PHP Fixes Critical Security Flaws That Put Millions of Websites at Risk",
-      "description": "",
-      "source": "techweez.com",
-      "kind": "reporting",
-      "image": "https://techweez.com/wp-content/uploads/2026/10/php-security-vulnerabilities.webp",
-      "url": "https://techweez.com/2026/10/21/php-security-vulnerabilities/",
-      "publishedAt": "2026-10-21T23:15:00.000Z",
-      "date": "21 Oct 2026"
-    },
-    {
-      "title": "PHP2Shell : Why Today PHP Security Alert Hit Close to Home - The Gadget Man | AI & Tech News and Reviews",
-      "description": "",
-      "source": "thegadgetman.org.uk",
-      "kind": "reporting",
-      "image": "https://www.thegadgetman.org.uk/wp-content/uploads/2026/10/php-doomsday.jpg",
-      "url": "https://www.thegadgetman.org.uk/php2shell-why-todays-php-security-alert-hit-close-to-home/",
-      "publishedAt": "2026-10-21T22:45:00.000Z",
-      "date": "21 Oct 2026"
-    },
-    {
-      "title": "Japanese PM , US agencies urge global websites to patch critical PHP flaws or go offline",
-      "description": "",
-      "source": "kenya-today.com",
-      "kind": "reporting",
-      "image": "https://tech-ish.com/wp-content/uploads/2026/10/php2shell-hero-1920x1080-1.jpg",
-      "url": "https://kenya-today.com/report-japanese-pm-us-agencies-urge-global-websites-to-patch-critical-php-flaws-or-go-offline-14768/",
-      "publishedAt": "2026-10-21T22:45:00.000Z",
-      "date": "21 Oct 2026"
     }
   ],
-  "checkedAt": "2026-11-03T23:26:44.574Z",
-  "feedsAvailable": 41,
+  "checkedAt": "2026-11-05T00:24:13.275Z",
+  "feedsAvailable": 40,
   "feedsTotal": 41,
   "searchMatches": 0
 }
