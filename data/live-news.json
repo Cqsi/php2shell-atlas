@@ -449,69 +449,9 @@
       "url": "https://securityaffairs.com/201538/hacking/php2shell-millions-of-attacks-no-confirmed-successful-exploits-yet.html",
       "publishedAt": "2026-10-23T10:52:00.000Z",
       "date": "23 Oct 2026"
-    },
-    {
-      "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
-      "description": "Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as ",
-      "source": "The Hacker News",
-      "kind": "reporting",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3SkRCDhjMsUS2FZ9ES40x39o7u2jdwMQDcq4NC75CsC2Xjji94ZZt_0Jgzdxmbf92n3razC07QvKJ-VT65axzIbXWoYrHytaQhNRBdYEMgmb1Fki-gR2NKY1TXuhpb9lcCemaPSqu8E0Q6KVczRNa97_7tj5Vyt0wngICj6GnWEHphW8fpaSybzKAa-pV/s1600/phpshell.jpg",
-      "url": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
-      "publishedAt": "2026-10-23T07:40:45.000Z",
-      "date": "23 Oct 2026"
-    },
-    {
-      "title": "PHP flaws exploited days before disclosure , Amazon asks users to update immediately",
-      "description": "",
-      "source": "moneycontrol.com",
-      "kind": "reporting",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260611085425_aws.png",
-      "url": "https://www.moneycontrol.com/technology/php-flaws-exploited-days-before-disclosure-amazon-asks-users-to-update-immediately-article-14058312.html",
-      "publishedAt": "2026-10-23T06:30:00.000Z",
-      "date": "23 Oct 2026"
-    },
-    {
-      "title": "Critical PHP flaws raise cyberattack fears worldwide",
-      "description": "",
-      "source": "orissapost.com",
-      "kind": "reporting",
-      "image": "https://www.orissapost.com/wp-content/uploads/2018/12/cyberattacks.jpg",
-      "url": "https://www.orissapost.com/critical-php-flaws-raise-cyberattack-fears-worldwide/",
-      "publishedAt": "2026-10-23T05:30:00.000Z",
-      "date": "23 Oct 2026"
-    },
-    {
-      "title": "Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation",
-      "description": "",
-      "source": "CrowdStrike",
-      "kind": "company",
-      "image": "",
-      "url": "https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/",
-      "publishedAt": "2026-10-23T05:00:00.000Z",
-      "date": "23 Oct 2026"
-    },
-    {
-      "title": "Critical PHP Security Update What united kingdom Website Owners Must Do Now",
-      "description": "",
-      "source": "phoenixfm.com",
-      "kind": "reporting",
-      "image": "https://phoenixfm.com/wp-content/uploads/2026/10/critical-php-update-hero.png",
-      "url": "https://phoenixfm.com/2026/10/23/critical-php-security-update-what-uk-website-owners-must-do-now/",
-      "publishedAt": "2026-10-23T04:30:00.000Z",
-      "date": "23 Oct 2026"
-    },
-    {
-      "title": "Reports of PHP bug exploitation attempts grow as experts downplay viability of exploits",
-      "description": "The headline-grabbing bugs known colloquially as PHP2Shell are giving cyber analysts a lot to track — and a lot to debunk.",
-      "source": "The Record",
-      "kind": "reporting",
-      "image": "",
-      "url": "https://therecord.media/php-php2shell-exploitation-attempts-pocs",
-      "publishedAt": "2026-10-23T04:00:00.000Z",
-      "date": "23 Oct 2026"
     }
   ],
-  "checkedAt": "2026-11-06T02:30:30.444Z",
+  "checkedAt": "2026-11-06T09:55:40.304Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
   "searchMatches": 0
