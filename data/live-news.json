@@ -379,39 +379,9 @@
       "url": "https://www.reviewnepal.com/nepal-financial-sector-takes-precautionary-steps-against-global-php-flaw/",
       "publishedAt": "2026-10-24T02:30:00.000Z",
       "date": "24 Oct 2026"
-    },
-    {
-      "title": "(Reliable)? php2shell exploitability, (Fri, Oct 23rd)",
-      "description": "Yesterday everyone was running around like crazy (me included :) because of the php2shell vulnerability.",
-      "source": "SANS ISC",
-      "kind": "research",
-      "image": "",
-      "url": "https://isc.sans.edu/diary/rss/33452",
-      "publishedAt": "2026-10-23T20:04:47.000Z",
-      "date": "23 Oct 2026"
-    },
-    {
-      "title": "Exposed to PHP2Shell? Cyber Experts Weigh in With Advice",
-      "description": "Fixing the critical PHP flaws is not as simple as clicking \"Update.\" Here's how to assess your risk, and what you can do to protect yourself.",
-      "source": "Dark Reading",
-      "kind": "reporting",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte307a3bd1a7bcb35/6adb9c8d2d5b887cc408cb52/Globe_bandages-zennie-Getty.jpg?width=720&quality=80&disable=upscale",
-      "url": "https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice",
-      "publishedAt": "2026-10-23T19:41:23.000Z",
-      "date": "23 Oct 2026"
-    },
-    {
-      "title": "PHP Warns of New Code Execution Flaw Days After PHP2Shell Patches",
-      "description": "PHP warns of a new, unlikely code execution flaw, CVE-2026-115560, and advises disabling session upload progress until a fix is released. PHP has warned of a new code execution vulnerability",
-      "source": "Security Affairs",
-      "kind": "reporting",
-      "image": "",
-      "url": "https://securityaffairs.com/201595/security/php-warns-of-new-code-execution-flaw-days-after-php2shell-patches.html",
-      "publishedAt": "2026-10-23T18:07:27.000Z",
-      "date": "23 Oct 2026"
     }
   ],
-  "checkedAt": "2026-11-06T17:31:45.352Z",
+  "checkedAt": "2026-11-06T22:25:53.142Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
   "searchMatches": 0
