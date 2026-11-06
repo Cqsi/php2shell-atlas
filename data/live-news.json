@@ -509,40 +509,10 @@
       "url": "https://therecord.media/php-php2shell-exploitation-attempts-pocs",
       "publishedAt": "2026-10-23T04:00:00.000Z",
       "date": "23 Oct 2026"
-    },
-    {
-      "title": "Tech Explainer : What You Need to Know About the PHP Flaw Threatening the Internet",
-      "description": "",
-      "source": "breitbart.com",
-      "kind": "reporting",
-      "image": "https://media.breitbart.com/media/2026/10/updating-computer-640x335.jpg",
-      "url": "https://www.breitbart.com/tech/2026/10/22/tech-explainer-what-you-need-to-know-about-the-php-flaw-threatening-the-internet/",
-      "publishedAt": "2026-10-23T02:30:00.000Z",
-      "date": "23 Oct 2026"
-    },
-    {
-      "title": "Attacks on PHP2Shell Continue, But No Known Compromises as a Result Yet",
-      "description": "On October 21st, 2026, the PHP project released emergency updates for two critical vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619. We warned site owners before the fixes beca",
-      "source": "Wordfence",
-      "kind": "company",
-      "image": "https://www.wordfence.com/wp-content/uploads/2026/10/FeaturedImage_Wordfence_PHP2Shell_1.01-1024x534.png",
-      "url": "https://www.wordfence.com/blog/2026/10/attacks-on-php2shell-continue-but-no-known-compromises-as-a-result-yet/",
-      "publishedAt": "2026-10-22T22:24:25.000Z",
-      "date": "22 Oct 2026"
-    },
-    {
-      "title": "The adversary economy: How threat actors are reacting to PHP2Shell",
-      "description": "<p>Two critical PHP vulnerabilities sent criminal forum operators scrambling to protect their own infrastructure, revealing that threat actors face the same exposure management challenges as",
-      "source": "Tenable",
-      "kind": "company",
-      "image": "",
-      "url": "https://www.tenable.com/blog/php2shell-vulnerability-threat-actor-response",
-      "publishedAt": "2026-10-22T22:04:00.000Z",
-      "date": "22 Oct 2026"
     }
   ],
-  "checkedAt": "2026-11-05T22:02:07.669Z",
-  "feedsAvailable": 40,
+  "checkedAt": "2026-11-06T02:30:30.444Z",
+  "feedsAvailable": 41,
   "feedsTotal": 41,
   "searchMatches": 0
 }
