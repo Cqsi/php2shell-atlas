@@ -349,39 +349,9 @@
       "url": "https://economictimes.indiatimes.com/ai/ai-insights/ai-is-finding-software-flaws-faster-and-so-are-hackers-inside-the-php-scramble/articleshow/135168257.cms",
       "publishedAt": "2026-10-24T11:30:00.000Z",
       "date": "24 Oct 2026"
-    },
-    {
-      "title": "DICT cybersecurity unit warns of critical PHP flaws that could expose websites to hackers",
-      "description": "",
-      "source": "newsbytes.ph",
-      "kind": "reporting",
-      "image": "https://newsbytes.ph/wp-content/uploads/2026/10/PHP.jpg",
-      "url": "https://newsbytes.ph/2026/10/24/dict-cybersecurity-unit-warns-of-critical-php-flaws-that-could-expose-websites-to-hackers/",
-      "publishedAt": "2026-10-24T06:45:00.000Z",
-      "date": "24 Oct 2026"
-    },
-    {
-      "title": "PHP Emergency Fixes Highlight Reliance on Limited Security Staff",
-      "description": "",
-      "source": "econotimes.com",
-      "kind": "reporting",
-      "image": "https://wfuxxvxhdynkhcrlavdu.supabase.co/storage/v1/object/public/article-media/articles/fe862d88b5a93926c879d26152afbbccf8659cac8f789b850c5acaa52ab6162c.webp",
-      "url": "https://econotimes.com/PHP-s-Emergency-Fixes-Highlight-Reliance-on-Limited-Security-Staff-1762048",
-      "publishedAt": "2026-10-24T05:15:00.000Z",
-      "date": "24 Oct 2026"
-    },
-    {
-      "title": "Nepal Financial Sector Takes Precautionary Steps Against Global PHP Flaw",
-      "description": "",
-      "source": "reviewnepal.com",
-      "kind": "reporting",
-      "image": "https://www.reviewnepal.com/storage/uploads/2026/09/nepal-rastra-bank-1790270334.jpg",
-      "url": "https://www.reviewnepal.com/nepal-financial-sector-takes-precautionary-steps-against-global-php-flaw/",
-      "publishedAt": "2026-10-24T02:30:00.000Z",
-      "date": "24 Oct 2026"
     }
   ],
-  "checkedAt": "2026-11-06T22:25:53.142Z",
+  "checkedAt": "2026-11-07T09:17:30.797Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
   "searchMatches": 0
