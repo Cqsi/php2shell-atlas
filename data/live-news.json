@@ -289,29 +289,9 @@
       "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
       "publishedAt": "2026-10-25T17:19:46.000Z",
       "date": "25 Oct 2026"
-    },
-    {
-      "title": "Pierluigi Paganini answers questions about the PHP2Shell flaws",
-      "description": "Pierluigi Paganini answers questions about the PHP2Shell vulnerability, early exploitation, AI-assisted attacks, and the risks to businesses, servers, and personal data. 1. Your latest repor",
-      "source": "Security Affairs",
-      "kind": "reporting",
-      "image": "",
-      "url": "https://securityaffairs.com/201662/hacking/pierluigi-paganini-answers-questions-about-the-php2shell-flaws.html",
-      "publishedAt": "2026-10-24T18:58:38.000Z",
-      "date": "24 Oct 2026"
-    },
-    {
-      "title": "PHP - ocalypse : How two critical web bugs almost broke the internet",
-      "description": "",
-      "source": "techcrunch.com",
-      "kind": "reporting",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/php-web-bug-padlock-2300746159.jpg",
-      "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
-      "publishedAt": "2026-10-24T16:15:00.000Z",
-      "date": "24 Oct 2026"
     }
   ],
-  "checkedAt": "2026-11-07T15:45:41.257Z",
+  "checkedAt": "2026-11-07T19:41:09.614Z",
   "feedsAvailable": 40,
   "feedsTotal": 41,
   "searchMatches": 0
