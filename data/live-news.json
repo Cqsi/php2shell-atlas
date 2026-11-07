@@ -309,50 +309,10 @@
       "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
       "publishedAt": "2026-10-24T16:15:00.000Z",
       "date": "24 Oct 2026"
-    },
-    {
-      "title": "Critical PHP vulnerabilities force government websites offline – NaturalNews . com",
-      "description": "",
-      "source": "naturalnews.com",
-      "kind": "reporting",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/cyber-attacks-ceasefire-hybrid-warfare-1235-original.jpg",
-      "url": "https://www.naturalnews.com/2026-10-24-critical-php-vulnerabilities-force-govt-websites-offline.html",
-      "publishedAt": "2026-10-24T15:45:00.000Z",
-      "date": "24 Oct 2026"
-    },
-    {
-      "title": "AI found the flaw . Hackers found the leak : The race to save PHP2SHELL",
-      "description": "",
-      "source": "iowapublicradio.org",
-      "kind": "reporting",
-      "image": "",
-      "url": "https://www.iowapublicradio.org/news-from-npr/2026-10-24/ai-found-the-flaw-hackers-found-the-leak-the-race-to-save-php2shell",
-      "publishedAt": "2026-10-24T15:30:00.000Z",
-      "date": "24 Oct 2026"
-    },
-    {
-      "title": "Global PHP Security Scare Highlights Why Stealth Matters in Cyberspace",
-      "description": "",
-      "source": "theaviationist.com",
-      "kind": "reporting",
-      "image": "https://theaviationist.com/wp-content/uploads/2026/10/B-2-cyber.jpg",
-      "url": "https://theaviationist.com/2026/10/24/php-security-scare-stealth/",
-      "publishedAt": "2026-10-24T15:30:00.000Z",
-      "date": "24 Oct 2026"
-    },
-    {
-      "title": "AI is finding software flaws faster , and so are hackers : Inside the PHP scramble",
-      "description": "",
-      "source": "economictimes.indiatimes.com",
-      "kind": "reporting",
-      "image": "https://img.etimg.com/thumb/msid-135168290,width-1200,height-900,imgsize-154356,overlay-economictimes/articleshow.jpg",
-      "url": "https://economictimes.indiatimes.com/ai/ai-insights/ai-is-finding-software-flaws-faster-and-so-are-hackers-inside-the-php-scramble/articleshow/135168257.cms",
-      "publishedAt": "2026-10-24T11:30:00.000Z",
-      "date": "24 Oct 2026"
     }
   ],
-  "checkedAt": "2026-11-07T09:17:30.797Z",
-  "feedsAvailable": 41,
+  "checkedAt": "2026-11-07T15:45:41.257Z",
+  "feedsAvailable": 40,
   "feedsTotal": 41,
   "searchMatches": 0
 }
