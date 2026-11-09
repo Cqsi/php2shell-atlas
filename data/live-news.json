@@ -229,49 +229,9 @@
       "url": "https://www.tenable.com/blog/discover-and-remediate-php2shell-exposure-with-tenable",
       "publishedAt": "2026-10-26T19:48:07.000Z",
       "date": "26 Oct 2026"
-    },
-    {
-      "title": "PHP2Shell: What to know about two critical PHP flaws",
-      "description": "Here's the lowdown on CVE-2026-109618 and CVE-2026-109619, as well as what website owners and IT teams should do to stay safe – all in a little more than two minutes",
-      "source": "ESET Research",
-      "kind": "company",
-      "image": "",
-      "url": "https://www.welivesecurity.com/en/videos/php2shell-what-know-two-critical-php-flaws/",
-      "publishedAt": "2026-10-26T13:25:00.000Z",
-      "date": "26 Oct 2026"
-    },
-    {
-      "title": "PHP2Shell: Suspected North Korean campaign targets 216 vulnerable PHP hosts",
-      "description": "Cyfirma links PHP2Shell scans of 216 vulnerable hosts to a suspected North Korean campaign using AI to rank public exploits. On October 21, PHP released emergency patches for two critical vu",
-      "source": "Security Affairs",
-      "kind": "reporting",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/10/image-59.png?resize=832%2C262&#038;ssl=1",
-      "url": "https://securityaffairs.com/201748/hacking/php2shell-suspected-north-korean-campaign-targets-216-vulnerable-php-hosts.html",
-      "publishedAt": "2026-10-26T09:58:31.000Z",
-      "date": "26 Oct 2026"
-    },
-    {
-      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
-      "description": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
-      "source": "BleepingComputer",
-      "kind": "reporting",
-      "image": "",
-      "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
-      "publishedAt": "2026-10-26T09:19:57.000Z",
-      "date": "26 Oct 2026"
-    },
-    {
-      "title": "Critical PHP flaws put cyber policy waiting periods and security conditions in focus",
-      "description": "",
-      "source": "insurancebusinessmag.com",
-      "kind": "reporting",
-      "image": "https://cdn-res.keymedia.com/cms/images/us/023/0382_639285866484865726.png",
-      "url": "https://www.insurancebusinessmag.com/us/news/cyber/critical-php-flaws-put-cyber-policy-waiting-periods-and-security-conditions-in-focus-594858.aspx",
-      "publishedAt": "2026-10-26T07:15:00.000Z",
-      "date": "26 Oct 2026"
     }
   ],
-  "checkedAt": "2026-11-09T06:39:30.114Z",
+  "checkedAt": "2026-11-09T16:54:10.274Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
   "searchMatches": 0
