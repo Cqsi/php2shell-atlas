@@ -269,19 +269,9 @@
       "url": "https://www.insurancebusinessmag.com/us/news/cyber/critical-php-flaws-put-cyber-policy-waiting-periods-and-security-conditions-in-focus-594858.aspx",
       "publishedAt": "2026-10-26T07:15:00.000Z",
       "date": "26 Oct 2026"
-    },
-    {
-      "title": "PHP Patches Two Critical Unauthenticated RCEs (CVE-2026-109618, CVE-2026-109619): [Updated for CVE-2026-115560]",
-      "description": "Two critical flaws in PHP’s request lifecycle can enable unauthenticated remote code execution. Upgrade to a fixed release or install a vendor backport for older versions.",
-      "source": "Snyk",
-      "kind": "company",
-      "image": "https://res.cloudinary.com/snyk/image/upload/v1690813497/illustration-hero-ai.png",
-      "url": "https://snyk.io/blog/php-patches-critical-unauthenticated-rces/",
-      "publishedAt": "2026-10-26T04:00:00.000Z",
-      "date": "26 Oct 2026"
     }
   ],
-  "checkedAt": "2026-11-08T20:47:50.922Z",
+  "checkedAt": "2026-11-09T06:39:30.114Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
   "searchMatches": 0
