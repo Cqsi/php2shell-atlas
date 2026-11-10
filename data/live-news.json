@@ -219,19 +219,9 @@
       "url": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
       "publishedAt": "2026-10-27T04:37:59.000Z",
       "date": "27 Oct 2026"
-    },
-    {
-      "title": "Discover and remediate PHP2Shell exposure with Tenable",
-      "description": "<p><em>Learn how to use Tenable solutions to find vulnerable PHP versions, prioritize remediation, and patch the critical PHP2Shell vulnerabilities (CVE-2026-109618 and CVE-2026-109619) fast",
-      "source": "Tenable",
-      "kind": "company",
-      "image": "",
-      "url": "https://www.tenable.com/blog/discover-and-remediate-php2shell-exposure-with-tenable",
-      "publishedAt": "2026-10-26T19:48:07.000Z",
-      "date": "26 Oct 2026"
     }
   ],
-  "checkedAt": "2026-11-09T16:54:10.274Z",
+  "checkedAt": "2026-11-10T00:43:22.463Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
   "searchMatches": 0
