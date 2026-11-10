@@ -169,19 +169,9 @@
       "url": "https://snyk.io/blog/php2shell-where-next-one-will-show-up-first/",
       "publishedAt": "2026-10-28T04:00:00.000Z",
       "date": "28 Oct 2026"
-    },
-    {
-      "title": "CISA Confirms PHP2Shell Exploitation, Orders Federal Agencies to Patch",
-      "description": "The US Cybersecurity and Infrastructure Security Agency (CISA) added two critical PHP flaws, CVE-2026-109618 and CVE-2026-109619, to its…",
-      "source": "HackRead",
-      "kind": "reporting",
-      "image": "",
-      "url": "https://hackread.com/cisa-confirm-php2shell-exploit-federal-agencies-patch/",
-      "publishedAt": "2026-10-27T18:26:21.000Z",
-      "date": "27 Oct 2026"
     }
   ],
-  "checkedAt": "2026-11-10T16:27:07.278Z",
+  "checkedAt": "2026-11-10T21:59:08.518Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
   "searchMatches": 0
