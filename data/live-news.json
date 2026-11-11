@@ -109,19 +109,9 @@
       "url": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
       "publishedAt": "2026-10-29T05:50:17.000Z",
       "date": "29 Oct 2026"
-    },
-    {
-      "title": "PHP2Shell Update: Still No Confirmed WordPress Compromises, and Answers to the Questions We’re Hearing Most",
-      "description": "As of October 28, 2026, Wordfence knows of no WordPress site compromised through PHP2Shell. Update PHP to a fixed version and restart it, because updating WordPress does not update PHP. The ",
-      "source": "Wordfence",
-      "kind": "company",
-      "image": "https://www.wordfence.com/wp-content/uploads/2026/10/FeaturedImage_Wordfence_347.02.03-1024x534.png",
-      "url": "https://www.wordfence.com/blog/2026/10/php2shell-update-still-no-confirmed-wordpress-compromises-and-answers-to-the-questions-were-hearing-most/",
-      "publishedAt": "2026-10-28T18:26:07.000Z",
-      "date": "28 Oct 2026"
     }
   ],
-  "checkedAt": "2026-11-11T17:29:05.845Z",
+  "checkedAt": "2026-11-11T23:43:31.766Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
   "searchMatches": 0
