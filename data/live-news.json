@@ -119,49 +119,9 @@
       "url": "https://www.wordfence.com/blog/2026/10/php2shell-update-still-no-confirmed-wordpress-compromises-and-answers-to-the-questions-were-hearing-most/",
       "publishedAt": "2026-10-28T18:26:07.000Z",
       "date": "28 Oct 2026"
-    },
-    {
-      "title": "OffSec Launches Free PHP2Shell Lab Following Critical Vulnerability Discovery",
-      "description": "New York, United States, 28th October 2026, CyberNewswire",
-      "source": "HackRead",
-      "kind": "reporting",
-      "image": "",
-      "url": "https://hackread.com/offsec-launches-free-php2shell-lab-following-critical-vulnerability-discovery/",
-      "publishedAt": "2026-10-28T17:09:09.000Z",
-      "date": "28 Oct 2026"
-    },
-    {
-      "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
-      "description": "Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged",
-      "source": "The Hacker News",
-      "kind": "reporting",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl3PPkqzXf7YyMcnwdBu5XWlOwWtUonf15z0n79qMtIOVTb4LNfKdnl7tUK-45_2boP9r2ZKuHmX6e1BZLmo-LYF-rUwH8gtNrynFuaX4rlNh20UXPvtIfC85BcKcHXK1qei6uOJyImSjTfO537yljJve0Y_zMlfFfhBl0mKPfppWhkfojtGlYgxLjdSO0/s1600/php-united.jpg",
-      "url": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
-      "publishedAt": "2026-10-28T16:02:45.000Z",
-      "date": "28 Oct 2026"
-    },
-    {
-      "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
-      "description": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as \"PHP2Shell\" put the web management interfaces of firewalls, VPNs, application",
-      "source": "BleepingComputer",
-      "kind": "reporting",
-      "image": "",
-      "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
-      "publishedAt": "2026-10-28T14:00:00.000Z",
-      "date": "28 Oct 2026"
-    },
-    {
-      "title": "Even after PHP2Shell, blast radius matters more than a CVSS score",
-      "description": "PHP2Shell shows how quickly attackers can exploit critical vulnerabilities, often before organizations have time to patch. Token Security explains why limiting the access of service accounts",
-      "source": "BleepingComputer",
-      "kind": "reporting",
-      "image": "",
-      "url": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/",
-      "publishedAt": "2026-10-28T13:50:59.000Z",
-      "date": "28 Oct 2026"
     }
   ],
-  "checkedAt": "2026-11-11T09:30:18.712Z",
+  "checkedAt": "2026-11-11T17:29:05.845Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
   "searchMatches": 0
