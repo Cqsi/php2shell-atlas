@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "title": "PHP2Shell Exploitation on Check Point Gateway",
+      "description": "Key findings Introduction We have now confirmed that, in late October 2026, approximately one week after a security fix became available, activity originating from 130.94.19[.]204 targeted I",
+      "source": "Check Point Research",
+      "kind": "company",
+      "image": "https://research.checkpoint.com/wp-content/uploads/2026/11/PHP2Shell-Exploitation-image1-scaled.png",
+      "url": "https://research.checkpoint.com/2026/php2shell-exploitation-on-check-point-gateway/",
+      "publishedAt": "2026-11-12T13:56:37.000Z",
+      "date": "12 Nov 2026"
+    },
+    {
       "title": "Insignary Releases Free Insignary-Chk Tool to Detect PHP2Shell and Node2Shell Exposure",
       "description": "Toronto, Canada, 6th November 2026, CyberNewswire",
       "source": "HackRead",
@@ -59,49 +69,9 @@
       "url": "https://www.tenable.com/blog/php2shell-one-week-later-why-one-exploit-doesnt-work-everywhere",
       "publishedAt": "2026-10-30T01:42:06.000Z",
       "date": "30 Oct 2026"
-    },
-    {
-      "title": "Limited reports of PHP bug exploitation emerge",
-      "description": "One cyber firm listed a half-dozen exploitations of the PHP2Shell bugs, and another identified a well targeted, suspected Chinese campaign that breached U.S. \"government affiliated\" servers.",
-      "source": "The Record",
-      "kind": "reporting",
-      "image": "",
-      "url": "https://therecord.media/php2shell-successful-exploitation-reports-emerge",
-      "publishedAt": "2026-10-29T20:01:25.000Z",
-      "date": "29 Oct 2026"
-    },
-    {
-      "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29)",
-      "description": "CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP, a scripting language used globally for web servers and CMS systems. The post Threat Brief: Critical Vulnerabilities i",
-      "source": "Unit 42",
-      "kind": "company",
-      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/10/03_Vulnerabilities_1920x900.jpg",
-      "url": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
-      "publishedAt": "2026-10-29T18:00:34.000Z",
-      "date": "29 Oct 2026"
-    },
-    {
-      "title": "Chinese hackers used VMware ESX zero-day; PHP2Shell and Fragnesia chained to root firewalls",
-      "description": "China-nexus threat actors have exploited a VMware ESX zero-day to hide their tracks and chained PHP2Shell flaws with the “Fragnesia” Linux kernel bug to root servers and firewalls, cybersecu",
-      "source": "Help Net Security",
-      "kind": "reporting",
-      "image": "",
-      "url": "https://www.helpnetsecurity.com/2026/10/29/php2shell-fragnesia-vmware-esx-zero-day/",
-      "publishedAt": "2026-10-29T16:25:10.000Z",
-      "date": "29 Oct 2026"
-    },
-    {
-      "title": "CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks",
-      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies to patch a high-severity Linux kernel privilege escalation bug that attackers are chaining with the P",
-      "source": "BleepingComputer",
-      "kind": "reporting",
-      "image": "",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/",
-      "publishedAt": "2026-10-29T13:59:48.000Z",
-      "date": "29 Oct 2026"
     }
   ],
-  "checkedAt": "2026-11-12T13:18:04.530Z",
+  "checkedAt": "2026-11-12T21:08:05.769Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
   "searchMatches": 0
