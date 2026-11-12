@@ -99,19 +99,9 @@
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/",
       "publishedAt": "2026-10-29T13:59:48.000Z",
       "date": "29 Oct 2026"
-    },
-    {
-      "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
-      "description": "Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces. \"Active exploitatio",
-      "source": "The Hacker News",
-      "kind": "reporting",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9wRucatO6j8IYS9drMJNn_BtgvNwY739pg33a6-50h33cCXnqi4unW5RppMfzO6TLjMdDQ-XICWN6uKTU6ai_SyLBeD8k4SdO7Kx2-QJeMbz0LSEMZkuKZls2dMSNoJmkY5nSc2SOduiSkVpKY9uFjCG0gU73hMvSyyqMANymiqb012-Z_rVUUUJtQQ5C/s1600/php-palo.jpg",
-      "url": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
-      "publishedAt": "2026-10-29T05:50:17.000Z",
-      "date": "29 Oct 2026"
     }
   ],
-  "checkedAt": "2026-11-11T23:43:31.766Z",
+  "checkedAt": "2026-11-12T13:18:04.530Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
   "searchMatches": 0
