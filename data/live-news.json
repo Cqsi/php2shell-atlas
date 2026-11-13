@@ -59,19 +59,9 @@
       "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261022.html",
       "publishedAt": "2026-11-01T15:00:00.000Z",
       "date": "1 Nov 2026"
-    },
-    {
-      "title": "The Good, the Bad and the Ugly in Cybersecurity - Week 44 (2026)",
-      "description": "PHP2SHELL’s complexity stalls mass exploitation, attackers chain it with Fragnesia to root firewalls, and a silent Brotli fix leaves Node2Shell exposed.",
-      "source": "SentinelOne",
-      "kind": "company",
-      "image": "https://images.contentstack.io/v3/assets/blt53c99b43892c2378/blt4f4cff1c329a76ed/6ae43a14aaf3517a5b2d99b5/GBU_week44_2026.jpg",
-      "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-44-8/",
-      "publishedAt": "2026-10-30T17:29:33.000Z",
-      "date": "30 Oct 2026"
     }
   ],
-  "checkedAt": "2026-11-13T17:23:43.036Z",
+  "checkedAt": "2026-11-13T22:54:46.779Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
   "searchMatches": 0
