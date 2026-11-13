@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
+      "description": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local ",
+      "source": "The Hacker News",
+      "kind": "reporting",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP3B9ZQG1BXlSPUWzwVJ5qgwh899Ngm9u2GAbWiX5HDqhhT6q6gsmva9-TR2upR0fepas2i0k53VUxh1CH21LeUUv1Ipczl9huExytcqNdlqIoHP64CRYJuGyHe-OgLoov-JR6GziUT4JDJ92Ne83CshfWn9pr9Bt2HPKkv4phQJ2esJHcV6eZqzRretVu/s1600/php.jpg",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
+      "publishedAt": "2026-11-13T08:05:49.000Z",
+      "date": "13 Nov 2026"
+    },
+    {
       "title": "PHP2Shell Exploitation on Check Point Gateway",
       "description": "Key findings Introduction We have now confirmed that, in late October 2026, approximately one week after a security fix became available, activity originating from 130.94.19[.]204 targeted I",
       "source": "Check Point Research",
@@ -61,7 +71,7 @@
       "date": "30 Oct 2026"
     }
   ],
-  "checkedAt": "2026-11-13T01:52:06.061Z",
+  "checkedAt": "2026-11-13T09:35:24.207Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
   "searchMatches": 0
