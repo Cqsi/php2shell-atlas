@@ -59,19 +59,9 @@
       "url": "https://www.infosecurity-magazine.com/news/chinese-us-government-chained-php2/",
       "publishedAt": "2026-10-30T12:00:00.000Z",
       "date": "30 Oct 2026"
-    },
-    {
-      "title": "php2shell one week later: Why one exploit doesn’t work everywhere",
-      "description": "<p><strong>php2shell raised fears of mass exploitation. A week of testing by our research team found that working exploits had to be fitted to each target’s exact PHP setup. Systems that sha",
-      "source": "Tenable",
-      "kind": "company",
-      "image": "",
-      "url": "https://www.tenable.com/blog/php2shell-one-week-later-why-one-exploit-doesnt-work-everywhere",
-      "publishedAt": "2026-10-30T01:42:06.000Z",
-      "date": "30 Oct 2026"
     }
   ],
-  "checkedAt": "2026-11-12T21:08:05.769Z",
+  "checkedAt": "2026-11-13T01:52:06.061Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
   "searchMatches": 0
