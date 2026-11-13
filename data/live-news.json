@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
+      "description": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]",
+      "source": "BleepingComputer",
+      "kind": "reporting",
+      "image": "",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
+      "publishedAt": "2026-11-13T16:21:43.000Z",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "Unpatched Check Point Gateways Are Being Wiped exploiting PHP2Shell",
+      "description": "Unpatched Check Point gateways were hacked worldwide, leading to root access, backdoors, network intrusion and destructive wiper attacks. Starting on 30 October, an attacker scanned and expl",
+      "source": "Security Affairs",
+      "kind": "reporting",
+      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/11/image-27.png?resize=1024%2C599&#038;ssl=1",
+      "url": "https://securityaffairs.com/202982/hacking/unpatched-check-point-gateways-are-being-wiped-exploiting-php2shell.html",
+      "publishedAt": "2026-11-13T11:35:05.000Z",
+      "date": "13 Nov 2026"
+    },
+    {
       "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
       "description": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local ",
       "source": "The Hacker News",
@@ -49,29 +69,9 @@
       "url": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-44-8/",
       "publishedAt": "2026-10-30T17:29:33.000Z",
       "date": "30 Oct 2026"
-    },
-    {
-      "title": "This month in security with Tony Anscombe – October 2026 edition",
-      "description": "The PHP2Shell disclosure and other major cybersecurity news this month brought into relief the need for well-thought-out cyber-readiness plans",
-      "source": "ESET Research",
-      "kind": "company",
-      "image": "",
-      "url": "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-october-2026/",
-      "publishedAt": "2026-10-30T15:03:14.000Z",
-      "date": "30 Oct 2026"
-    },
-    {
-      "title": "Chinese Actor Compromises US Government Network Via Chained PHP2Shell Exploit",
-      "description": "Dream found that a suspected Chinese-nexus actor gained root access to Palo Alto Network firewall servers to target government organizations",
-      "source": "Infosecurity Magazine",
-      "kind": "reporting",
-      "image": "",
-      "url": "https://www.infosecurity-magazine.com/news/chinese-us-government-chained-php2/",
-      "publishedAt": "2026-10-30T12:00:00.000Z",
-      "date": "30 Oct 2026"
     }
   ],
-  "checkedAt": "2026-11-13T09:35:24.207Z",
+  "checkedAt": "2026-11-13T17:23:43.036Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
   "searchMatches": 0
