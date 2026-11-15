@@ -49,20 +49,10 @@
       "url": "https://hackread.com/insignary-releases-free-insignary-chk-tool-to-detect-php2shell-and-node2shell-exposure/",
       "publishedAt": "2026-11-06T12:50:05.000Z",
       "date": "6 Nov 2026"
-    },
-    {
-      "title": "更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
-      "description": "",
-      "source": "IPA Japan",
-      "kind": "official",
-      "image": "",
-      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261022.html",
-      "publishedAt": "2026-11-01T15:00:00.000Z",
-      "date": "1 Nov 2026"
     }
   ],
-  "checkedAt": "2026-11-13T22:54:46.779Z",
-  "feedsAvailable": 41,
+  "checkedAt": "2026-11-15T15:54:09.923Z",
+  "feedsAvailable": 40,
   "feedsTotal": 41,
   "searchMatches": 0
 }
