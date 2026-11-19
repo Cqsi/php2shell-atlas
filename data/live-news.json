@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "title": "Java4Shell, NGINX2Shell and more: Why we are not at \"Yellow\", (Wed, Nov 18th)",
+      "description": "About a month ago, we went to Infocon Yellow for the first time in a few years. We decided to address the php2shell vulnerability and alert our readers to its significant impact. Following p",
+      "source": "SANS ISC",
+      "kind": "research",
+      "image": "",
+      "url": "https://isc.sans.edu/diary/rss/33532",
+      "publishedAt": "2026-11-18T19:54:50.000Z",
+      "date": "18 Nov 2026"
+    },
+    {
       "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
       "description": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]",
       "source": "BleepingComputer",
@@ -51,8 +61,8 @@
       "date": "6 Nov 2026"
     }
   ],
-  "checkedAt": "2026-11-15T15:54:09.923Z",
-  "feedsAvailable": 40,
+  "checkedAt": "2026-11-19T01:15:01.457Z",
+  "feedsAvailable": 41,
   "feedsTotal": 41,
   "searchMatches": 0
 }
