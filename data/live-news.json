@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Everything Is a Web Application, Including Your Firewall",
+      "description": "One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 a",
+      "source": "The Hacker News",
+      "kind": "reporting",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC0roCfV92el2-gLSGwmumyjXgCjHookzwGjft2a6UWPZA1QvyrazDNLTvlZrF1F5iagg74JxnPEXbnK60OEeJuFNo2Fc2xcNSnJCeNw9BLu_y-lsRhrpO6s1End2gdDDlRU_r4wysTiiJS4ZKPDTmWK152psFdhxRizlSJZFCjnYr6nnamRsUciEJui4/s1600/php-app.jpg",
+      "url": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
+      "publishedAt": "2026-11-19T11:52:23.000Z",
+      "date": "19 Nov 2026"
+    },
+    {
+      "title": "Four Days Early: Why AI-Found Vulnerabilities Demand Protection That’s Already On",
+      "description": "In October 2026, attackers went after PHP2Shell four days before a fix existed. Nearly every WAF provider published a rule within about a day. What separated customers was how much work it t",
+      "source": "Imperva",
+      "kind": "company",
+      "image": "https://www.imperva.com/blog/wp-content/uploads/sites/9/2024/05/shutterstock_1071270287-13.jpg",
+      "url": "https://www.imperva.com/blog/why-ai-found-vulnerabilities-demand-protection-thats-already-on/",
+      "publishedAt": "2026-11-19T09:39:23.000Z",
+      "date": "19 Nov 2026"
+    },
+    {
       "title": "Java4Shell, NGINX2Shell and more: Why we are not at \"Yellow\", (Wed, Nov 18th)",
       "description": "About a month ago, we went to Infocon Yellow for the first time in a few years. We decided to address the php2shell vulnerability and alert our readers to its significant impact. Following p",
       "source": "SANS ISC",
@@ -61,7 +81,7 @@
       "date": "6 Nov 2026"
     }
   ],
-  "checkedAt": "2026-11-19T01:15:01.457Z",
+  "checkedAt": "2026-11-19T18:19:48.066Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
   "searchMatches": 0
