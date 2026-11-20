@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "title": "How exposure management can help public sector prepare for PHP2Shell-like vulnerabilities",
+      "description": "<p><span>PHP2Shell showed how fast a runtime-level flaw can go from disclosure to confirmed exploitation. Here’s how federal, state, local, and education teams can prepare for PHP2Shell-like",
+      "source": "Tenable",
+      "kind": "company",
+      "image": "",
+      "url": "https://www.tenable.com/blog/public-sector-exposure-management-php2shell",
+      "publishedAt": "2026-11-20T14:00:00.000Z",
+      "date": "20 Nov 2026"
+    },
+    {
       "title": "Critical PHP Flaws Allow Code Execution, But Don't Panic 'PHP2Shell'-Style",
       "description": "November's monthly security release patches seven critical PHP flaws that should be addressed ASAP, though experts say exploitability varies and depends heavily on configuration.",
       "source": "Dark Reading",
@@ -79,19 +89,9 @@
       "url": "https://research.checkpoint.com/2026/php2shell-exploitation-on-check-point-gateway/",
       "publishedAt": "2026-11-12T13:56:37.000Z",
       "date": "12 Nov 2026"
-    },
-    {
-      "title": "Insignary Releases Free Insignary-Chk Tool to Detect PHP2Shell and Node2Shell Exposure",
-      "description": "Toronto, Canada, 6th November 2026, CyberNewswire",
-      "source": "HackRead",
-      "kind": "reporting",
-      "image": "",
-      "url": "https://hackread.com/insignary-releases-free-insignary-chk-tool-to-detect-php2shell-and-node2shell-exposure/",
-      "publishedAt": "2026-11-06T12:50:05.000Z",
-      "date": "6 Nov 2026"
     }
   ],
-  "checkedAt": "2026-11-20T00:56:33.717Z",
+  "checkedAt": "2026-11-20T17:20:14.660Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
   "searchMatches": 0
