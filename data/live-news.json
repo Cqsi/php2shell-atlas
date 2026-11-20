@@ -11,7 +11,7 @@
       "date": "20 Nov 2026"
     },
     {
-      "title": "Critical PHP Flaws Allow Code Execution, But Don't Panic 'PHP2Shell'-Style",
+      "title": "Critical PHP Flaws Allow Code Execution, but Don't Panic 'PHP2Shell'-Style",
       "description": "November's monthly security release patches seven critical PHP flaws that should be addressed ASAP, though experts say exploitability varies and depends heavily on configuration.",
       "source": "Dark Reading",
       "kind": "reporting",
@@ -91,7 +91,7 @@
       "date": "12 Nov 2026"
     }
   ],
-  "checkedAt": "2026-11-20T17:20:14.660Z",
+  "checkedAt": "2026-11-20T23:23:23.601Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
   "searchMatches": 0
