@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+      "description": "Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]",
+      "source": "BleepingComputer",
+      "kind": "reporting",
+      "image": "",
+      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
+      "publishedAt": "2026-11-25T22:05:09.000Z",
+      "date": "25 Nov 2026"
+    },
+    {
+      "title": "Palo Alto Fixes Fragnesia Kernel Bug Chained With PHP2Shell in Firewall Attacks",
+      "description": "Palo Alto fixed Fragnesia after attackers chained it with PHP2Shell to root firewalls",
+      "source": "Infosecurity Magazine",
+      "kind": "reporting",
+      "image": "",
+      "url": "https://www.infosecurity-magazine.com/news/palo-alto-fragnesia-php2shell-fix/",
+      "publishedAt": "2026-11-25T15:00:00.000Z",
+      "date": "25 Nov 2026"
+    },
+    {
       "title": "How exposure management can help public sector prepare for PHP2Shell-like vulnerabilities",
       "description": "<p><span>PHP2Shell showed how fast a runtime-level flaw can go from disclosure to confirmed exploitation. Here’s how federal, state, local, and education teams can prepare for PHP2Shell-like",
       "source": "Tenable",
@@ -91,7 +111,7 @@
       "date": "12 Nov 2026"
     }
   ],
-  "checkedAt": "2026-11-20T23:23:23.601Z",
+  "checkedAt": "2026-11-25T22:35:36.261Z",
   "feedsAvailable": 41,
   "feedsTotal": 41,
   "searchMatches": 0
