@@ -79,30 +79,10 @@
       "url": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
       "publishedAt": "2026-11-13T16:21:43.000Z",
       "date": "13 Nov 2026"
-    },
-    {
-      "title": "Unpatched Check Point Gateways Are Being Wiped exploiting PHP2Shell",
-      "description": "Unpatched Check Point gateways were hacked worldwide, leading to root access, backdoors, network intrusion and destructive wiper attacks. Starting on 30 October, an attacker scanned and expl",
-      "source": "Security Affairs",
-      "kind": "reporting",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/11/image-27.png?resize=1024%2C599&#038;ssl=1",
-      "url": "https://securityaffairs.com/202982/hacking/unpatched-check-point-gateways-are-being-wiped-exploiting-php2shell.html",
-      "publishedAt": "2026-11-13T11:35:05.000Z",
-      "date": "13 Nov 2026"
-    },
-    {
-      "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
-      "description": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local ",
-      "source": "The Hacker News",
-      "kind": "reporting",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP3B9ZQG1BXlSPUWzwVJ5qgwh899Ngm9u2GAbWiX5HDqhhT6q6gsmva9-TR2upR0fepas2i0k53VUxh1CH21LeUUv1Ipczl9huExytcqNdlqIoHP64CRYJuGyHe-OgLoov-JR6GziUT4JDJ92Ne83CshfWn9pr9Bt2HPKkv4phQJ2esJHcV6eZqzRretVu/s1600/php.jpg",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
-      "publishedAt": "2026-11-13T08:05:49.000Z",
-      "date": "13 Nov 2026"
     }
   ],
-  "checkedAt": "2026-11-26T14:30:30.341Z",
-  "feedsAvailable": 41,
+  "checkedAt": "2026-11-27T15:38:31.129Z",
+  "feedsAvailable": 40,
   "feedsTotal": 41,
   "searchMatches": 0
 }
